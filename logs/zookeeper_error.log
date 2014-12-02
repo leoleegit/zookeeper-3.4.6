@@ -1,0 +1,228 @@
+2014.11.28 11:56:05 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001
+2014.11.28 11:56:05 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3002
+2014.11.28 11:56:06 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3003
+2014.11.28 11:56:10 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001
+2014.11.28 11:56:10 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3002
+2014.11.28 11:56:11 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3003
+2014.11.28 11:56:15 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001
+2014.11.28 11:56:15 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3002
+2014.11.28 11:56:16 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3003
+2014.11.28 11:56:19 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001
+2014.11.28 11:56:19 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3002
+2014.11.28 11:56:21 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3003
+2014.11.28 11:56:24 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001
+2014.11.28 11:56:24 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3002
+2014.11.28 11:56:25 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3003
+2014.11.28 11:56:29 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001
+2014.11.28 11:56:29 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3002
+2014.11.28 11:56:30 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3003
+2014.11.28 11:56:33 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001
+2014.11.28 11:56:33 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3002
+2014.11.28 11:57:04 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001
+2014.11.28 11:57:06 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001
+2014.11.28 11:57:08 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001
+2014.11.28 11:57:11 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001
+2014.11.28 11:57:13 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001
+2014.11.28 11:57:15 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001
+2014.11.28 11:57:17 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001
+2014.11.28 11:57:19 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001
+2014.11.28 11:57:22 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001
+2014.11.28 11:57:24 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001
+2014.11.28 11:57:26 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001
+2014.11.28 11:57:28 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001
+2014.11.28 11:57:31 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001
+2014.11.28 11:57:33 org.apache.zookeeper.ClientCnxnSocketNIO-connect - Unable to open socket to 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001
+2014.12.01 15:59:05 org.apache.log4j.jmx.LoggerDynamicMBean-registerAppenderMBean - Could not add appenderMBean for [debug-out].
+javax.management.InstanceAlreadyExistsException: log4j:appender=debug-out
+	at com.sun.jmx.mbeanserver.Repository.addMBean(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.internal_addObject(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerDynamicMBean(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerObject(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerMBean(Unknown Source)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.registerMBean(Unknown Source)
+	at org.apache.log4j.jmx.AbstractDynamicMBean.registerMBean(AbstractDynamicMBean.java:160)
+	at org.apache.log4j.jmx.LoggerDynamicMBean.registerAppenderMBean(LoggerDynamicMBean.java:264)
+	at org.apache.log4j.jmx.LoggerDynamicMBean.appenderMBeanRegistration(LoggerDynamicMBean.java:252)
+	at org.apache.log4j.jmx.LoggerDynamicMBean.postRegister(LoggerDynamicMBean.java:280)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.postRegisterInvoke(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerDynamicMBean(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerObject(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerMBean(Unknown Source)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.registerMBean(Unknown Source)
+	at org.apache.log4j.jmx.AbstractDynamicMBean.registerMBean(AbstractDynamicMBean.java:160)
+	at org.apache.log4j.jmx.HierarchyDynamicMBean.addLoggerMBean(HierarchyDynamicMBean.java:125)
+	at org.apache.log4j.jmx.HierarchyDynamicMBean.postRegister(HierarchyDynamicMBean.java:263)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.postRegisterInvoke(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.internal_addObject(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerDynamicMBean(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerObject(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerMBean(Unknown Source)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.registerMBean(Unknown Source)
+	at org.apache.zookeeper.jmx.ManagedUtil.registerLog4jMBeans(ManagedUtil.java:53)
+	at org.apache.zookeeper.server.quorum.QuorumPeerMain.runFromConfig(QuorumPeerMain.java:122)
+	at org.apache.zookeeper.server.quorum.QuorumPeerMain.initializeAndRun(QuorumPeerMain.java:111)
+	at org.apache.zookeeper.server.quorum.QuorumPeerTestBase$MainThread.run(QuorumPeerTestBase.java:114)
+	at java.lang.Thread.run(Unknown Source)
+2014.12.01 15:59:05 org.apache.log4j.jmx.HierarchyDynamicMBean-addLoggerMBean - Could not add loggerMBean for [root].
+javax.management.InstanceAlreadyExistsException: log4j:logger=root
+	at com.sun.jmx.mbeanserver.Repository.addMBean(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.internal_addObject(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerDynamicMBean(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerObject(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerMBean(Unknown Source)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.registerMBean(Unknown Source)
+	at org.apache.log4j.jmx.AbstractDynamicMBean.registerMBean(AbstractDynamicMBean.java:160)
+	at org.apache.log4j.jmx.HierarchyDynamicMBean.addLoggerMBean(HierarchyDynamicMBean.java:125)
+	at org.apache.log4j.jmx.HierarchyDynamicMBean.postRegister(HierarchyDynamicMBean.java:263)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.postRegisterInvoke(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerDynamicMBean(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerObject(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerMBean(Unknown Source)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.registerMBean(Unknown Source)
+	at org.apache.zookeeper.jmx.ManagedUtil.registerLog4jMBeans(ManagedUtil.java:53)
+	at org.apache.zookeeper.server.quorum.QuorumPeerMain.runFromConfig(QuorumPeerMain.java:122)
+	at org.apache.zookeeper.server.quorum.QuorumPeerMain.initializeAndRun(QuorumPeerMain.java:111)
+	at org.apache.zookeeper.server.quorum.QuorumPeerTestBase$MainThread.run(QuorumPeerTestBase.java:114)
+	at java.lang.Thread.run(Unknown Source)
+2014.12.01 15:59:05 org.apache.log4j.jmx.AppenderDynamicMBean-registerLayoutMBean - Could not add DynamicLayoutMBean for [debug-out,layout=org.apache.log4j.PatternLayout].
+javax.management.InstanceAlreadyExistsException: log4j:appender=debug-out,layout=org.apache.log4j.PatternLayout
+	at com.sun.jmx.mbeanserver.Repository.addMBean(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.internal_addObject(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerDynamicMBean(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerObject(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerMBean(Unknown Source)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.registerMBean(Unknown Source)
+	at org.apache.log4j.jmx.AbstractDynamicMBean.registerMBean(AbstractDynamicMBean.java:160)
+	at org.apache.log4j.jmx.AppenderDynamicMBean.registerLayoutMBean(AppenderDynamicMBean.java:203)
+	at org.apache.log4j.jmx.AppenderDynamicMBean.preRegister(AppenderDynamicMBean.java:339)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.preRegisterInvoke(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerDynamicMBean(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerObject(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerMBean(Unknown Source)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.registerMBean(Unknown Source)
+	at org.apache.log4j.jmx.AbstractDynamicMBean.registerMBean(AbstractDynamicMBean.java:160)
+	at org.apache.log4j.jmx.LoggerDynamicMBean.registerAppenderMBean(LoggerDynamicMBean.java:264)
+	at org.apache.log4j.jmx.LoggerDynamicMBean.appenderMBeanRegistration(LoggerDynamicMBean.java:252)
+	at org.apache.log4j.jmx.LoggerDynamicMBean.postRegister(LoggerDynamicMBean.java:280)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.postRegisterInvoke(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.internal_addObject(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerDynamicMBean(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerObject(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerMBean(Unknown Source)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.registerMBean(Unknown Source)
+	at org.apache.log4j.jmx.AbstractDynamicMBean.registerMBean(AbstractDynamicMBean.java:160)
+	at org.apache.log4j.jmx.HierarchyDynamicMBean.addLoggerMBean(HierarchyDynamicMBean.java:125)
+	at org.apache.log4j.jmx.HierarchyDynamicMBean.postRegister(HierarchyDynamicMBean.java:263)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.postRegisterInvoke(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.internal_addObject(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerDynamicMBean(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerObject(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerMBean(Unknown Source)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.registerMBean(Unknown Source)
+	at org.apache.zookeeper.jmx.ManagedUtil.registerLog4jMBeans(ManagedUtil.java:53)
+	at org.apache.zookeeper.server.quorum.QuorumPeerMain.runFromConfig(QuorumPeerMain.java:122)
+	at org.apache.zookeeper.server.quorum.QuorumPeerMain.initializeAndRun(QuorumPeerMain.java:111)
+	at org.apache.zookeeper.server.quorum.QuorumPeerTestBase$MainThread.run(QuorumPeerTestBase.java:114)
+	at java.lang.Thread.run(Unknown Source)
+2014.12.01 15:59:05 org.apache.log4j.jmx.LoggerDynamicMBean-registerAppenderMBean - Could not add appenderMBean for [debug-out].
+javax.management.InstanceAlreadyExistsException: log4j:appender=debug-out
+	at com.sun.jmx.mbeanserver.Repository.addMBean(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.internal_addObject(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerDynamicMBean(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerObject(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerMBean(Unknown Source)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.registerMBean(Unknown Source)
+	at org.apache.log4j.jmx.AbstractDynamicMBean.registerMBean(AbstractDynamicMBean.java:160)
+	at org.apache.log4j.jmx.LoggerDynamicMBean.registerAppenderMBean(LoggerDynamicMBean.java:264)
+	at org.apache.log4j.jmx.LoggerDynamicMBean.appenderMBeanRegistration(LoggerDynamicMBean.java:252)
+	at org.apache.log4j.jmx.LoggerDynamicMBean.postRegister(LoggerDynamicMBean.java:280)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.postRegisterInvoke(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.internal_addObject(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerDynamicMBean(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerObject(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerMBean(Unknown Source)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.registerMBean(Unknown Source)
+	at org.apache.log4j.jmx.AbstractDynamicMBean.registerMBean(AbstractDynamicMBean.java:160)
+	at org.apache.log4j.jmx.HierarchyDynamicMBean.addLoggerMBean(HierarchyDynamicMBean.java:125)
+	at org.apache.log4j.jmx.HierarchyDynamicMBean.postRegister(HierarchyDynamicMBean.java:263)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.postRegisterInvoke(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.internal_addObject(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerDynamicMBean(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerObject(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerMBean(Unknown Source)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.registerMBean(Unknown Source)
+	at org.apache.zookeeper.jmx.ManagedUtil.registerLog4jMBeans(ManagedUtil.java:53)
+	at org.apache.zookeeper.server.quorum.QuorumPeerMain.runFromConfig(QuorumPeerMain.java:122)
+	at org.apache.zookeeper.server.quorum.QuorumPeerMain.initializeAndRun(QuorumPeerMain.java:111)
+	at org.apache.zookeeper.server.quorum.QuorumPeerTestBase$MainThread.run(QuorumPeerTestBase.java:114)
+	at java.lang.Thread.run(Unknown Source)
+2014.12.01 15:59:05 org.apache.log4j.jmx.HierarchyDynamicMBean-addLoggerMBean - Could not add loggerMBean for [root].
+javax.management.InstanceAlreadyExistsException: log4j:logger=root
+	at com.sun.jmx.mbeanserver.Repository.addMBean(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.internal_addObject(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerDynamicMBean(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerObject(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerMBean(Unknown Source)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.registerMBean(Unknown Source)
+	at org.apache.log4j.jmx.AbstractDynamicMBean.registerMBean(AbstractDynamicMBean.java:160)
+	at org.apache.log4j.jmx.HierarchyDynamicMBean.addLoggerMBean(HierarchyDynamicMBean.java:125)
+	at org.apache.log4j.jmx.HierarchyDynamicMBean.postRegister(HierarchyDynamicMBean.java:263)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.postRegisterInvoke(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.internal_addObject(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerDynamicMBean(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerObject(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerMBean(Unknown Source)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.registerMBean(Unknown Source)
+	at org.apache.zookeeper.jmx.ManagedUtil.registerLog4jMBeans(ManagedUtil.java:53)
+	at org.apache.zookeeper.server.quorum.QuorumPeerMain.runFromConfig(QuorumPeerMain.java:122)
+	at org.apache.zookeeper.server.quorum.QuorumPeerMain.initializeAndRun(QuorumPeerMain.java:111)
+	at org.apache.zookeeper.server.quorum.QuorumPeerTestBase$MainThread.run(QuorumPeerTestBase.java:114)
+	at java.lang.Thread.run(Unknown Source)
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.QuorumCnxManager$Listener-run - Exception while listening
+java.net.SocketException: socket closed
+	at java.net.PlainSocketImpl.socketAccept(Native Method)
+	at java.net.PlainSocketImpl.accept(Unknown Source)
+	at java.net.ServerSocket.implAccept(Unknown Source)
+	at java.net.ServerSocket.accept(Unknown Source)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager$Listener.run(QuorumCnxManager.java:509)
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.QuorumCnxManager$Listener-run - Exception while listening
+java.net.SocketException: socket closed
+	at java.net.PlainSocketImpl.socketAccept(Native Method)
+	at java.net.PlainSocketImpl.accept(Unknown Source)
+	at java.net.ServerSocket.implAccept(Unknown Source)
+	at java.net.ServerSocket.accept(Unknown Source)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager$Listener.run(QuorumCnxManager.java:509)
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.QuorumCnxManager$Listener-run - Exception while listening
+java.net.SocketException: socket closed
+	at java.net.PlainSocketImpl.socketAccept(Native Method)
+	at java.net.PlainSocketImpl.accept(Unknown Source)
+	at java.net.ServerSocket.implAccept(Unknown Source)
+	at java.net.ServerSocket.accept(Unknown Source)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager$Listener.run(QuorumCnxManager.java:509)
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.QuorumCnxManager$Listener-run - Exception while listening
+java.net.SocketException: socket closed
+	at java.net.PlainSocketImpl.socketAccept(Native Method)
+	at java.net.PlainSocketImpl.accept(Unknown Source)
+	at java.net.ServerSocket.implAccept(Unknown Source)
+	at java.net.ServerSocket.accept(Unknown Source)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager$Listener.run(QuorumCnxManager.java:509)
+2014.12.01 15:59:15 org.apache.zookeeper.server.quorum.QuorumPeerTestBase$MainThread-run - unexpected exception in run
+org.apache.zookeeper.server.quorum.QuorumPeerConfig$ConfigException: Error processing build\test5203488257006534959.junit.dir\zoo.cfg
+	at org.apache.zookeeper.server.quorum.QuorumPeerConfig.parse(QuorumPeerConfig.java:123)
+	at org.apache.zookeeper.server.quorum.QuorumPeerMain.initializeAndRun(QuorumPeerMain.java:101)
+	at org.apache.zookeeper.server.quorum.QuorumPeerTestBase$MainThread.run(QuorumPeerTestBase.java:114)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.IllegalArgumentException: Observers w/o participants is an invalid configuration
+	at org.apache.zookeeper.server.quorum.QuorumPeerConfig.parseProperties(QuorumPeerConfig.java:276)
+	at org.apache.zookeeper.server.quorum.QuorumPeerConfig.parse(QuorumPeerConfig.java:119)
+	... 3 more
+2014.12.01 15:59:15 org.apache.zookeeper.server.quorum.QuorumPeerTestBase$MainThread-run - unexpected exception in run
+org.apache.zookeeper.server.quorum.QuorumPeerConfig$ConfigException: Error processing build\test3482926895514528710.junit.dir\zoo.cfg
+	at org.apache.zookeeper.server.quorum.QuorumPeerConfig.parse(QuorumPeerConfig.java:123)
+	at org.apache.zookeeper.server.quorum.QuorumPeerMain.initializeAndRun(QuorumPeerMain.java:101)
+	at org.apache.zookeeper.server.quorum.QuorumPeerTestBase$MainThread.run(QuorumPeerTestBase.java:114)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.IllegalArgumentException: Observers w/o quorum is an invalid configuration
+	at org.apache.zookeeper.server.quorum.QuorumPeerConfig.parseProperties(QuorumPeerConfig.java:284)
+	at org.apache.zookeeper.server.quorum.QuorumPeerConfig.parse(QuorumPeerConfig.java:119)
+	... 3 more

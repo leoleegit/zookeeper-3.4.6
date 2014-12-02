@@ -1,0 +1,854 @@
+2014.11.28 11:56:05 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 11:56:05 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 11:56:06 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1081)
+2014.11.28 11:56:06 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 11:56:08 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1081)
+2014.11.28 11:56:09 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1081)
+2014.11.28 11:56:10 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 11:56:10 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 11:56:11 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1081)
+2014.11.28 11:56:11 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 11:56:12 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1081)
+2014.11.28 11:56:13 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1081)
+2014.11.28 11:56:15 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 11:56:15 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 11:56:16 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1081)
+2014.11.28 11:56:16 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 11:56:17 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1081)
+2014.11.28 11:56:18 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1081)
+2014.11.28 11:56:19 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 11:56:19 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 11:56:20 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1081)
+2014.11.28 11:56:21 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 11:56:22 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1081)
+2014.11.28 11:56:23 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1081)
+2014.11.28 11:56:24 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 11:56:24 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 11:56:25 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1081)
+2014.11.28 11:56:25 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 11:56:26 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1081)
+2014.11.28 11:56:27 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1081)
+2014.11.28 11:56:29 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 11:56:29 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 11:56:30 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1081)
+2014.11.28 11:56:30 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 11:56:31 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1081)
+2014.11.28 11:56:32 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1081)
+2014.11.28 11:56:33 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 11:56:33 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 11:57:04 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 11:57:05 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1081)
+2014.11.28 11:57:06 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 11:57:07 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1081)
+2014.11.28 11:57:08 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 11:57:09 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1081)
+2014.11.28 11:57:11 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 11:57:12 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1081)
+2014.11.28 11:57:13 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 11:57:14 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1081)
+2014.11.28 11:57:15 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 11:57:16 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1081)
+2014.11.28 11:57:17 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 11:57:18 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1081)
+2014.11.28 11:57:19 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 11:57:21 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1081)
+2014.11.28 11:57:22 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 11:57:23 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1081)
+2014.11.28 11:57:24 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 11:57:25 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1081)
+2014.11.28 11:57:26 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 11:57:27 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1081)
+2014.11.28 11:57:28 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 11:57:30 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1081)
+2014.11.28 11:57:31 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 11:57:32 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1081)
+2014.11.28 11:57:33 org.apache.zookeeper.ClientCnxn$SendThread-run - Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.SocketException: Address family not supported by protocol family: connect
+	at sun.nio.ch.Net.connect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.connect(Unknown Source)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.registerAndConnect(ClientCnxnSocketNIO.java:277)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.connect(ClientCnxnSocketNIO.java:287)
+	at org.apache.zookeeper.ClientCnxn$SendThread.startConnect(ClientCnxn.java:967)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1003)
+2014.11.28 12:21:03 org.apache.zookeeper.jmx.MBeanRegistry-unregister - Failed to unregister MBean StandaloneServer_port-1
+2014.11.28 12:21:03 org.apache.zookeeper.jmx.MBeanRegistry-unregister - Error during unregister
+javax.management.InstanceNotFoundException: org.apache.ZooKeeperService:name0=StandaloneServer_port-1
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.getMBean(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.exclusiveUnregisterMBean(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.unregisterMBean(Unknown Source)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.unregisterMBean(Unknown Source)
+	at org.apache.zookeeper.jmx.MBeanRegistry.unregister(MBeanRegistry.java:115)
+	at org.apache.zookeeper.jmx.MBeanRegistry.unregister(MBeanRegistry.java:132)
+	at org.apache.zookeeper.server.ZooKeeperServer.unregisterJMX(ZooKeeperServer.java:472)
+	at org.apache.zookeeper.server.ZooKeeperServer.shutdown(ZooKeeperServer.java:458)
+	at org.apache.zookeeper.server.ZooKeeperServerMain.runFromConfig(ZooKeeperServerMain.java:116)
+	at org.apache.zookeeper.server.ZooKeeperServerMain.initializeAndRun(ZooKeeperServerMain.java:86)
+	at org.apache.zookeeper.server.ZooKeeperServerMainTest$MainThread.run(ZooKeeperServerMainTest.java:86)
+2014.11.28 16:34:31 org.apache.zookeeper.server.NIOServerCnxn-doIO - Exception causing close of session 0x149f583f2140000 due to java.io.IOException: An existing connection was forcibly closed by the remote host
+2014.12.01 14:34:34 org.apache.zookeeper.server.NIOServerCnxn-doIO - Exception causing close of session 0x14a048dc8bc0000 due to java.io.IOException: An existing connection was forcibly closed by the remote host
+2014.12.01 15:59:04 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parseProperties - No server failure will be tolerated. You need at least 3 servers.
+2014.12.01 15:59:04 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parseProperties - No server failure will be tolerated. You need at least 3 servers.
+2014.12.01 15:59:04 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parseProperties - No server failure will be tolerated. You need at least 3 servers.
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumPeerMain-runFromConfig - Unable to register log4j JMX control
+javax.management.InstanceAlreadyExistsException: log4j:hiearchy=default
+	at com.sun.jmx.mbeanserver.Repository.addMBean(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.internal_addObject(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerDynamicMBean(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerObject(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerMBean(Unknown Source)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.registerMBean(Unknown Source)
+	at org.apache.zookeeper.jmx.ManagedUtil.registerLog4jMBeans(ManagedUtil.java:53)
+	at org.apache.zookeeper.server.quorum.QuorumPeerMain.runFromConfig(QuorumPeerMain.java:122)
+	at org.apache.zookeeper.server.quorum.QuorumPeerMain.initializeAndRun(QuorumPeerMain.java:111)
+	at org.apache.zookeeper.server.quorum.QuorumPeerTestBase$MainThread.run(QuorumPeerTestBase.java:114)
+	at java.lang.Thread.run(Unknown Source)
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumPeerMain-runFromConfig - Unable to register log4j JMX control
+javax.management.InstanceAlreadyExistsException: log4j:hiearchy=default
+	at com.sun.jmx.mbeanserver.Repository.addMBean(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.internal_addObject(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerDynamicMBean(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerObject(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerMBean(Unknown Source)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.registerMBean(Unknown Source)
+	at org.apache.zookeeper.jmx.ManagedUtil.registerLog4jMBeans(ManagedUtil.java:53)
+	at org.apache.zookeeper.server.quorum.QuorumPeerMain.runFromConfig(QuorumPeerMain.java:122)
+	at org.apache.zookeeper.server.quorum.QuorumPeerMain.initializeAndRun(QuorumPeerMain.java:111)
+	at org.apache.zookeeper.server.quorum.QuorumPeerTestBase$MainThread.run(QuorumPeerTestBase.java:114)
+	at java.lang.Thread.run(Unknown Source)
+2014.12.01 15:59:06 org.apache.zookeeper.server.quorum.Follower-processPacket - Got zxid 0x100000001 expected 0x1
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.Observer-observeLeader - Exception when observing the leader
+java.io.EOFException
+	at java.io.DataInputStream.readInt(Unknown Source)
+	at org.apache.jute.BinaryInputArchive.readInt(BinaryInputArchive.java:63)
+	at org.apache.zookeeper.server.quorum.QuorumPacket.deserialize(QuorumPacket.java:83)
+	at org.apache.jute.BinaryInputArchive.readRecord(BinaryInputArchive.java:103)
+	at org.apache.zookeeper.server.quorum.Learner.readPacket(Learner.java:153)
+	at org.apache.zookeeper.server.quorum.Observer.observeLeader(Observer.java:75)
+	at org.apache.zookeeper.server.quorum.QuorumPeer.run(QuorumPeer.java:773)
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.Follower-followLeader - Exception when following the leader
+java.io.EOFException
+	at java.io.DataInputStream.readInt(Unknown Source)
+	at org.apache.jute.BinaryInputArchive.readInt(BinaryInputArchive.java:63)
+	at org.apache.zookeeper.server.quorum.QuorumPacket.deserialize(QuorumPacket.java:83)
+	at org.apache.jute.BinaryInputArchive.readRecord(BinaryInputArchive.java:103)
+	at org.apache.zookeeper.server.quorum.Learner.readPacket(Learner.java:153)
+	at org.apache.zookeeper.server.quorum.Follower.followLeader(Follower.java:85)
+	at org.apache.zookeeper.server.quorum.QuorumPeer.run(QuorumPeer.java:786)
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.LearnerHandler-run - ******* GOODBYE /127.0.0.1:52024 ********
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.LearnerHandler-shutdown - Ignoring unexpected exception
+java.lang.InterruptedException
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireInterruptibly(Unknown Source)
+	at java.util.concurrent.locks.ReentrantLock.lockInterruptibly(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.put(Unknown Source)
+	at org.apache.zookeeper.server.quorum.LearnerHandler.shutdown(LearnerHandler.java:656)
+	at org.apache.zookeeper.server.quorum.LearnerHandler.run(LearnerHandler.java:649)
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.LearnerHandler-run - ******* GOODBYE /127.0.0.1:52025 ********
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker-run - Connection broken for id 2, my id = 1, error = 
+java.io.EOFException
+	at java.io.DataInputStream.readInt(Unknown Source)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker.run(QuorumCnxManager.java:765)
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker-run - Interrupting SendWorker
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker-run - Connection broken for id 1, my id = 2, error = 
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.readInt(Unknown Source)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker.run(QuorumCnxManager.java:765)
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker-run - Interrupting SendWorker
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.LearnerHandler-shutdown - Ignoring unexpected exception
+java.lang.InterruptedException
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireInterruptibly(Unknown Source)
+	at java.util.concurrent.locks.ReentrantLock.lockInterruptibly(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.put(Unknown Source)
+	at org.apache.zookeeper.server.quorum.LearnerHandler.shutdown(LearnerHandler.java:656)
+	at org.apache.zookeeper.server.quorum.LearnerHandler.run(LearnerHandler.java:649)
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.QuorumPeer-run - Unexpected exception
+java.lang.InterruptedException: sleep interrupted
+	at java.lang.Thread.sleep(Native Method)
+	at org.apache.zookeeper.server.quorum.Leader.lead(Leader.java:453)
+	at org.apache.zookeeper.server.quorum.QuorumPeer.run(QuorumPeer.java:799)
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.QuorumPeer-run - QuorumPeer main thread exited
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker-run - Connection broken for id 3, my id = 2, error = 
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.readInt(Unknown Source)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker.run(QuorumCnxManager.java:765)
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker-run - Interrupting SendWorker
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker-run - Interrupted while waiting for message on queue
+java.lang.InterruptedException
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
+	at java.util.concurrent.ArrayBlockingQueue.poll(Unknown Source)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager.pollSendQueue(QuorumCnxManager.java:849)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager.access$5(QuorumCnxManager.java:847)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker.run(QuorumCnxManager.java:685)
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker-run - Send worker leaving thread
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker-run - Interrupted while waiting for message on queue
+java.lang.InterruptedException
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
+	at java.util.concurrent.ArrayBlockingQueue.poll(Unknown Source)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager.pollSendQueue(QuorumCnxManager.java:849)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager.access$5(QuorumCnxManager.java:847)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker.run(QuorumCnxManager.java:685)
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker-run - Send worker leaving thread
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker-run - Interrupted while waiting for message on queue
+java.lang.InterruptedException
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
+	at java.util.concurrent.ArrayBlockingQueue.poll(Unknown Source)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager.pollSendQueue(QuorumCnxManager.java:849)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager.access$5(QuorumCnxManager.java:847)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker.run(QuorumCnxManager.java:685)
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker-run - Send worker leaving thread
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker-run - Connection broken for id 2, my id = 3, error = 
+java.io.EOFException
+	at java.io.DataInputStream.readInt(Unknown Source)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker.run(QuorumCnxManager.java:765)
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker-run - Interrupting SendWorker
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker-run - Interrupted while waiting for message on queue
+java.lang.InterruptedException
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
+	at java.util.concurrent.ArrayBlockingQueue.poll(Unknown Source)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager.pollSendQueue(QuorumCnxManager.java:849)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager.access$5(QuorumCnxManager.java:847)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker.run(QuorumCnxManager.java:685)
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker-run - Send worker leaving thread
+2014.12.01 15:59:07 org.apache.zookeeper.jmx.MBeanRegistry-unregister - Failed to unregister MBean InMemoryDataTree
+2014.12.01 15:59:07 org.apache.zookeeper.jmx.MBeanRegistry-unregister - Error during unregister
+javax.management.InstanceNotFoundException: org.apache.ZooKeeperService:name0=ReplicatedServer_id3,name1=replica.3,name2=StandaloneServer_port-1,name3=InMemoryDataTree
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.getMBean(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.exclusiveUnregisterMBean(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.unregisterMBean(Unknown Source)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.unregisterMBean(Unknown Source)
+	at org.apache.zookeeper.jmx.MBeanRegistry.unregister(MBeanRegistry.java:115)
+	at org.apache.zookeeper.jmx.MBeanRegistry.unregister(MBeanRegistry.java:132)
+	at org.apache.zookeeper.server.quorum.LearnerZooKeeperServer.unregisterJMX(LearnerZooKeeperServer.java:126)
+	at org.apache.zookeeper.server.ZooKeeperServer.shutdown(ZooKeeperServer.java:458)
+	at org.apache.zookeeper.server.quorum.ObserverZooKeeperServer.shutdown(ObserverZooKeeperServer.java:142)
+	at org.apache.zookeeper.server.quorum.Learner.shutdown(Learner.java:546)
+	at org.apache.zookeeper.server.quorum.Observer.shutdown(Observer.java:138)
+	at org.apache.zookeeper.server.quorum.QuorumPeer.run(QuorumPeer.java:777)
+2014.12.01 15:59:08 org.apache.zookeeper.server.quorum.QuorumCnxManager-connectOne - Cannot open channel to 2 at election address /127.0.0.1:11225
+java.net.ConnectException: Connection refused: connect
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(Unknown Source)
+	at java.net.PlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager.connectOne(QuorumCnxManager.java:368)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager.toSend(QuorumCnxManager.java:341)
+	at org.apache.zookeeper.server.quorum.FastLeaderElection$Messenger$WorkerSender.process(FastLeaderElection.java:449)
+	at org.apache.zookeeper.server.quorum.FastLeaderElection$Messenger$WorkerSender.run(FastLeaderElection.java:430)
+	at java.lang.Thread.run(Unknown Source)
+2014.12.01 15:59:08 org.apache.zookeeper.server.quorum.QuorumCnxManager-connectOne - Cannot open channel to 2 at election address /127.0.0.1:11225
+java.net.ConnectException: Connection refused: connect
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(Unknown Source)
+	at java.net.PlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager.connectOne(QuorumCnxManager.java:368)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager.toSend(QuorumCnxManager.java:341)
+	at org.apache.zookeeper.server.quorum.FastLeaderElection$Messenger$WorkerSender.process(FastLeaderElection.java:449)
+	at org.apache.zookeeper.server.quorum.FastLeaderElection$Messenger$WorkerSender.run(FastLeaderElection.java:430)
+	at java.lang.Thread.run(Unknown Source)
+2014.12.01 15:59:08 org.apache.zookeeper.server.NIOServerCnxn-doIO - Exception causing close of session 0x0 due to java.io.IOException: ZooKeeperServer not running
+2014.12.01 15:59:08 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parseProperties - No server failure will be tolerated. You need at least 3 servers.
+2014.12.01 15:59:08 org.apache.zookeeper.server.quorum.QuorumPeerMain-runFromConfig - Unable to register log4j JMX control
+javax.management.InstanceAlreadyExistsException: log4j:hiearchy=default
+	at com.sun.jmx.mbeanserver.Repository.addMBean(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.internal_addObject(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerDynamicMBean(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerObject(Unknown Source)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerMBean(Unknown Source)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.registerMBean(Unknown Source)
+	at org.apache.zookeeper.jmx.ManagedUtil.registerLog4jMBeans(ManagedUtil.java:53)
+	at org.apache.zookeeper.server.quorum.QuorumPeerMain.runFromConfig(QuorumPeerMain.java:122)
+	at org.apache.zookeeper.server.quorum.QuorumPeerMain.initializeAndRun(QuorumPeerMain.java:111)
+	at org.apache.zookeeper.server.quorum.QuorumPeerTestBase$MainThread.run(QuorumPeerTestBase.java:114)
+	at java.lang.Thread.run(Unknown Source)
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker-run - Connection broken for id 2, my id = 1, error = 
+java.io.EOFException
+	at java.io.DataInputStream.readInt(Unknown Source)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker.run(QuorumCnxManager.java:765)
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker-run - Connection broken for id 1, my id = 2, error = 
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.readInt(Unknown Source)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker.run(QuorumCnxManager.java:765)
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker-run - Interrupting SendWorker
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker-run - Exception when using channel: for id 2 my id = 1 error = java.net.SocketException: Software caused connection abort: socket write error
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker-run - Interrupting SendWorker
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker-run - Interrupted while waiting for message on queue
+java.lang.InterruptedException
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
+	at java.util.concurrent.ArrayBlockingQueue.poll(Unknown Source)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager.pollSendQueue(QuorumCnxManager.java:849)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager.access$5(QuorumCnxManager.java:847)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker.run(QuorumCnxManager.java:685)
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker-run - Send worker leaving thread
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker-run - Send worker leaving thread
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.LearnerHandler-run - Unhandled proposal scenario
+2014.12.01 15:59:10 org.apache.zookeeper.server.NIOServerCnxn-doIO - Exception causing close of session 0x0 due to java.io.IOException: ZooKeeperServer not running
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.Follower-followLeader - Exception when following the leader
+java.io.EOFException
+	at java.io.DataInputStream.readInt(Unknown Source)
+	at org.apache.jute.BinaryInputArchive.readInt(BinaryInputArchive.java:63)
+	at org.apache.zookeeper.server.quorum.QuorumPacket.deserialize(QuorumPacket.java:83)
+	at org.apache.jute.BinaryInputArchive.readRecord(BinaryInputArchive.java:103)
+	at org.apache.zookeeper.server.quorum.Learner.readPacket(Learner.java:153)
+	at org.apache.zookeeper.server.quorum.Follower.followLeader(Follower.java:85)
+	at org.apache.zookeeper.server.quorum.QuorumPeer.run(QuorumPeer.java:786)
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.LearnerHandler-run - ******* GOODBYE /127.0.0.1:52044 ********
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.LearnerHandler-shutdown - Ignoring unexpected exception
+java.lang.InterruptedException
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireInterruptibly(Unknown Source)
+	at java.util.concurrent.locks.ReentrantLock.lockInterruptibly(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.put(Unknown Source)
+	at org.apache.zookeeper.server.quorum.LearnerHandler.shutdown(LearnerHandler.java:656)
+	at org.apache.zookeeper.server.quorum.LearnerHandler.run(LearnerHandler.java:649)
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.Observer-observeLeader - Exception when observing the leader
+java.io.EOFException
+	at java.io.DataInputStream.readInt(Unknown Source)
+	at org.apache.jute.BinaryInputArchive.readInt(BinaryInputArchive.java:63)
+	at org.apache.zookeeper.server.quorum.QuorumPacket.deserialize(QuorumPacket.java:83)
+	at org.apache.jute.BinaryInputArchive.readRecord(BinaryInputArchive.java:103)
+	at org.apache.zookeeper.server.quorum.Learner.readPacket(Learner.java:153)
+	at org.apache.zookeeper.server.quorum.Observer.observeLeader(Observer.java:75)
+	at org.apache.zookeeper.server.quorum.QuorumPeer.run(QuorumPeer.java:773)
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker-run - Interrupted while waiting for message on queue
+java.lang.InterruptedException
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
+	at java.util.concurrent.ArrayBlockingQueue.poll(Unknown Source)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager.pollSendQueue(QuorumCnxManager.java:849)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager.access$5(QuorumCnxManager.java:847)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker.run(QuorumCnxManager.java:685)
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker-run - Connection broken for id 1, my id = 2, error = 
+java.io.EOFException
+	at java.io.DataInputStream.readInt(Unknown Source)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker.run(QuorumCnxManager.java:765)
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker-run - Interrupting SendWorker
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.QuorumPeer-run - Unexpected exception
+java.lang.InterruptedException: sleep interrupted
+	at java.lang.Thread.sleep(Native Method)
+	at org.apache.zookeeper.server.quorum.Leader.lead(Leader.java:453)
+	at org.apache.zookeeper.server.quorum.QuorumPeer.run(QuorumPeer.java:799)
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.QuorumPeer-run - QuorumPeer main thread exited
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker-run - Connection broken for id 3, my id = 1, error = 
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.readInt(Unknown Source)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker.run(QuorumCnxManager.java:765)
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker-run - Interrupting SendWorker
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker-run - Connection broken for id 1, my id = 3, error = 
+java.io.EOFException
+	at java.io.DataInputStream.readInt(Unknown Source)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker.run(QuorumCnxManager.java:765)
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker-run - Interrupting SendWorker
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker-run - Interrupted while waiting for message on queue
+java.lang.InterruptedException
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
+	at java.util.concurrent.ArrayBlockingQueue.poll(Unknown Source)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager.pollSendQueue(QuorumCnxManager.java:849)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager.access$5(QuorumCnxManager.java:847)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker.run(QuorumCnxManager.java:685)
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker-run - Send worker leaving thread
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker-run - Connection broken for id 2, my id = 1, error = 
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.readInt(Unknown Source)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker.run(QuorumCnxManager.java:765)
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker-run - Interrupting SendWorker
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.LearnerHandler-run - ******* GOODBYE /127.0.0.1:52045 ********
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.LearnerHandler-shutdown - Ignoring unexpected exception
+java.lang.InterruptedException
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireInterruptibly(Unknown Source)
+	at java.util.concurrent.locks.ReentrantLock.lockInterruptibly(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.put(Unknown Source)
+	at org.apache.zookeeper.server.quorum.LearnerHandler.shutdown(LearnerHandler.java:656)
+	at org.apache.zookeeper.server.quorum.LearnerHandler.run(LearnerHandler.java:649)
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker-run - Interrupted while waiting for message on queue
+java.lang.InterruptedException
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
+	at java.util.concurrent.ArrayBlockingQueue.poll(Unknown Source)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager.pollSendQueue(QuorumCnxManager.java:849)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager.access$5(QuorumCnxManager.java:847)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker.run(QuorumCnxManager.java:685)
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker-run - Send worker leaving thread
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker-run - Interrupted while waiting for message on queue
+java.lang.InterruptedException
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
+	at java.util.concurrent.ArrayBlockingQueue.poll(Unknown Source)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager.pollSendQueue(QuorumCnxManager.java:849)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager.access$5(QuorumCnxManager.java:847)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker.run(QuorumCnxManager.java:685)
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker-run - Send worker leaving thread
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker-run - Send worker leaving thread
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.QuorumPeer-run - QuorumPeer main thread exited
+2014.12.01 15:59:12 org.apache.zookeeper.server.NIOServerCnxnFactory-run - Ignoring unexpected runtime exception
+java.nio.channels.CancelledKeyException
+	at sun.nio.ch.SelectionKeyImpl.ensureValid(Unknown Source)
+	at sun.nio.ch.SelectionKeyImpl.readyOps(Unknown Source)
+	at org.apache.zookeeper.server.NIOServerCnxnFactory.run(NIOServerCnxnFactory.java:187)
+	at java.lang.Thread.run(Unknown Source)
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker-run - Connection broken for id 2, my id = 3, error = 
+java.io.EOFException
+	at java.io.DataInputStream.readInt(Unknown Source)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker.run(QuorumCnxManager.java:765)
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker-run - Interrupting SendWorker
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker-run - Connection broken for id 3, my id = 2, error = 
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.readInt(Unknown Source)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker.run(QuorumCnxManager.java:765)
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.QuorumCnxManager$RecvWorker-run - Interrupting SendWorker
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker-run - Interrupted while waiting for message on queue
+java.lang.InterruptedException
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
+	at java.util.concurrent.ArrayBlockingQueue.poll(Unknown Source)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager.pollSendQueue(QuorumCnxManager.java:849)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager.access$5(QuorumCnxManager.java:847)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker.run(QuorumCnxManager.java:685)
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker-run - Send worker leaving thread
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker-run - Interrupted while waiting for message on queue
+java.lang.InterruptedException
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
+	at java.util.concurrent.ArrayBlockingQueue.poll(Unknown Source)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager.pollSendQueue(QuorumCnxManager.java:849)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager.access$5(QuorumCnxManager.java:847)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker.run(QuorumCnxManager.java:685)
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.QuorumCnxManager$SendWorker-run - Send worker leaving thread
+2014.12.01 15:59:12 org.apache.zookeeper.server.NIOServerCnxnFactory-run - Ignoring exception
+java.nio.channels.ClosedChannelException
+	at sun.nio.ch.ServerSocketChannelImpl.accept(Unknown Source)
+	at org.apache.zookeeper.server.NIOServerCnxnFactory.run(NIOServerCnxnFactory.java:189)
+	at java.lang.Thread.run(Unknown Source)
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.QuorumPeer-run - Unexpected exception
+java.lang.InterruptedException
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.poll(Unknown Source)
+	at org.apache.zookeeper.server.quorum.FastLeaderElection.lookForLeader(FastLeaderElection.java:829)
+	at org.apache.zookeeper.server.quorum.QuorumPeer.run(QuorumPeer.java:762)
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.QuorumPeer-run - QuorumPeer main thread exited
+2014.12.01 15:59:13 org.apache.zookeeper.server.quorum.QuorumCnxManager-connectOne - Cannot open channel to 1 at election address /127.0.0.1:11224
+java.net.ConnectException: Connection refused: connect
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(Unknown Source)
+	at java.net.PlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager.connectOne(QuorumCnxManager.java:368)
+	at org.apache.zookeeper.server.quorum.QuorumCnxManager.toSend(QuorumCnxManager.java:341)
+	at org.apache.zookeeper.server.quorum.FastLeaderElection$Messenger$WorkerSender.process(FastLeaderElection.java:449)
+	at org.apache.zookeeper.server.quorum.FastLeaderElection$Messenger$WorkerSender.run(FastLeaderElection.java:430)
+	at java.lang.Thread.run(Unknown Source)

@@ -1,0 +1,1031 @@
+2014.11.28 11:56:05 org.apache.zookeeper.Environment-logEnv - Client environment:zookeeper.version=3.4.6--1, built on 05/15/2014 07:37 GMT
+2014.11.28 11:56:05 org.apache.zookeeper.Environment-logEnv - Client environment:host.name=SERVER-103
+2014.11.28 11:56:05 org.apache.zookeeper.Environment-logEnv - Client environment:java.version=1.6.0_45
+2014.11.28 11:56:05 org.apache.zookeeper.Environment-logEnv - Client environment:java.vendor=Sun Microsystems Inc.
+2014.11.28 11:56:05 org.apache.zookeeper.Environment-logEnv - Client environment:java.home=C:\Program Files\Java\jre6
+2014.11.28 11:56:05 org.apache.zookeeper.Environment-logEnv - Client environment:java.class.path=C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-main;C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-test;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.6.1.jar;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-log4j12\jars\slf4j-log4j12-1.6.1.jar;C:\Users\Administrator\.ant\cache\log4j\log4j\bundles\log4j-1.2.16.jar;C:\Users\Administrator\.ant\cache\jline\jline\jars\jline-0.9.94.jar;C:\Users\Administrator\.ant\cache\io.netty\netty\jars\netty-3.7.0.Final.jar;C:\Users\Administrator\.ant\cache\junit\junit\jars\junit-4.8.1.jar;C:\Users\Administrator\.ant\cache\org.mockito\mockito-all\jars\mockito-all-1.8.2.jar;C:\Users\Administrator\.ant\cache\checkstyle\checkstyle\jars\checkstyle-5.0.jar
+2014.11.28 11:56:05 org.apache.zookeeper.Environment-logEnv - Client environment:java.library.path=C:\Program Files\Java\jre6\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:/Program Files/Java/jre6/lib/i386;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\TortoiseSVN\bin;C:\Program Files\apache-maven-3.1.0\bin;C:\Program Files\Java\jdk1.6.0_45\bin;C:\Program Files\TortoiseGit\bin;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\VisualSVN Server\bin;C:\Program Files\apache-ant-1.9.2\bin;C:\Program Files\erl6.1\bin;C:\Python27;C:\Program Files\GTK2-Runtime\bin;C:\FPC\2.6.4\bin\i386-Win32;.
+2014.11.28 11:56:05 org.apache.zookeeper.Environment-logEnv - Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\2\
+2014.11.28 11:56:05 org.apache.zookeeper.Environment-logEnv - Client environment:java.compiler=<NA>
+2014.11.28 11:56:05 org.apache.zookeeper.Environment-logEnv - Client environment:os.name=Windows Server 2008
+2014.11.28 11:56:05 org.apache.zookeeper.Environment-logEnv - Client environment:os.arch=x86
+2014.11.28 11:56:05 org.apache.zookeeper.Environment-logEnv - Client environment:os.version=6.0
+2014.11.28 11:56:05 org.apache.zookeeper.Environment-logEnv - Client environment:user.name=Administrator
+2014.11.28 11:56:05 org.apache.zookeeper.Environment-logEnv - Client environment:user.home=C:\Users\Administrator
+2014.11.28 11:56:05 org.apache.zookeeper.Environment-logEnv - Client environment:user.dir=C:\projects\stuying\zookeeper-3.4.6
+2014.11.28 11:56:05 org.apache.zookeeper.ZooKeeper-<init> - Initiating client connection, connectString=localhost:3001,localhost:3002,localhost:3003 sessionTimeout=30000 watcher=org.apache.zookeeper.ZooKeeperMain$MyWatcher@c21495
+2014.11.28 11:56:05 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:05 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3002. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:05 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3002. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:06 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3003. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:07 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3003. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:08 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:10 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:10 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3002. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:10 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3002. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:11 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3003. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:11 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3003. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:12 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:15 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:15 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3002. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:15 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3002. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:16 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3003. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:16 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3003. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:17 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:19 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:19 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3002. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:19 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3002. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:21 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3003. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:21 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3003. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:22 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:24 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:24 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3002. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:24 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3002. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:25 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3003. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:25 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3003. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:26 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:29 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:29 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3002. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:29 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3002. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:30 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3003. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:30 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3003. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:31 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:33 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:33 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3002. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:56:34 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3002. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:57:04 org.apache.zookeeper.Environment-logEnv - Client environment:zookeeper.version=3.4.6--1, built on 05/15/2014 07:37 GMT
+2014.11.28 11:57:04 org.apache.zookeeper.Environment-logEnv - Client environment:host.name=SERVER-103
+2014.11.28 11:57:04 org.apache.zookeeper.Environment-logEnv - Client environment:java.version=1.6.0_45
+2014.11.28 11:57:04 org.apache.zookeeper.Environment-logEnv - Client environment:java.vendor=Sun Microsystems Inc.
+2014.11.28 11:57:04 org.apache.zookeeper.Environment-logEnv - Client environment:java.home=C:\Program Files\Java\jre6
+2014.11.28 11:57:04 org.apache.zookeeper.Environment-logEnv - Client environment:java.class.path=C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-main;C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-test;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.6.1.jar;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-log4j12\jars\slf4j-log4j12-1.6.1.jar;C:\Users\Administrator\.ant\cache\log4j\log4j\bundles\log4j-1.2.16.jar;C:\Users\Administrator\.ant\cache\jline\jline\jars\jline-0.9.94.jar;C:\Users\Administrator\.ant\cache\io.netty\netty\jars\netty-3.7.0.Final.jar;C:\Users\Administrator\.ant\cache\junit\junit\jars\junit-4.8.1.jar;C:\Users\Administrator\.ant\cache\org.mockito\mockito-all\jars\mockito-all-1.8.2.jar;C:\Users\Administrator\.ant\cache\checkstyle\checkstyle\jars\checkstyle-5.0.jar
+2014.11.28 11:57:04 org.apache.zookeeper.Environment-logEnv - Client environment:java.library.path=C:\Program Files\Java\jre6\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:/Program Files/Java/jre6/lib/i386;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\TortoiseSVN\bin;C:\Program Files\apache-maven-3.1.0\bin;C:\Program Files\Java\jdk1.6.0_45\bin;C:\Program Files\TortoiseGit\bin;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\VisualSVN Server\bin;C:\Program Files\apache-ant-1.9.2\bin;C:\Program Files\erl6.1\bin;C:\Python27;C:\Program Files\GTK2-Runtime\bin;C:\FPC\2.6.4\bin\i386-Win32;.
+2014.11.28 11:57:04 org.apache.zookeeper.Environment-logEnv - Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\2\
+2014.11.28 11:57:04 org.apache.zookeeper.Environment-logEnv - Client environment:java.compiler=<NA>
+2014.11.28 11:57:04 org.apache.zookeeper.Environment-logEnv - Client environment:os.name=Windows Server 2008
+2014.11.28 11:57:04 org.apache.zookeeper.Environment-logEnv - Client environment:os.arch=x86
+2014.11.28 11:57:04 org.apache.zookeeper.Environment-logEnv - Client environment:os.version=6.0
+2014.11.28 11:57:04 org.apache.zookeeper.Environment-logEnv - Client environment:user.name=Administrator
+2014.11.28 11:57:04 org.apache.zookeeper.Environment-logEnv - Client environment:user.home=C:\Users\Administrator
+2014.11.28 11:57:04 org.apache.zookeeper.Environment-logEnv - Client environment:user.dir=C:\projects\stuying\zookeeper-3.4.6
+2014.11.28 11:57:04 org.apache.zookeeper.ZooKeeper-<init> - Initiating client connection, connectString=localhost:3001 sessionTimeout=30000 watcher=org.apache.zookeeper.ZooKeeperMain$MyWatcher@c21495
+2014.11.28 11:57:04 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:57:04 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:57:06 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:57:06 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:57:08 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:57:08 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:57:11 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:57:11 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:57:13 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:57:13 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:57:15 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:57:15 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:57:17 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:57:17 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:57:19 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:57:20 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:57:22 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:57:22 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:57:24 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:57:24 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:57:26 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:57:26 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:57:28 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:57:29 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:57:31 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:57:31 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:57:33 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 0:0:0:0:0:0:0:1/0:0:0:0:0:0:0:1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 11:57:33 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3001. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 12:21:02 org.apache.zookeeper.ZKTestCase$1-starting - STARTING testStandalone
+2014.11.28 12:21:02 org.apache.zookeeper.JUnit4ZKTestRunner$LoggedInvokeMethod-evaluate - RUNNING TEST METHOD testStandalone
+2014.11.28 12:21:03 org.apache.zookeeper.client.FourLetterWordMain-send4LetterWord - connecting to 127.0.0.1 3181
+2014.11.28 12:21:03 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parse - Reading configuration from: build\test4967703356202148083.junit.dir\zoo.cfg
+2014.11.28 12:21:03 org.apache.zookeeper.server.ZooKeeperServerMain-runFromConfig - Starting server
+2014.11.28 12:21:03 org.apache.zookeeper.Environment-logEnv - Server environment:zookeeper.version=3.4.6--1, built on 05/15/2014 07:37 GMT
+2014.11.28 12:21:03 org.apache.zookeeper.Environment-logEnv - Server environment:host.name=SERVER-103
+2014.11.28 12:21:03 org.apache.zookeeper.Environment-logEnv - Server environment:java.version=1.6.0_45
+2014.11.28 12:21:03 org.apache.zookeeper.Environment-logEnv - Server environment:java.vendor=Sun Microsystems Inc.
+2014.11.28 12:21:03 org.apache.zookeeper.Environment-logEnv - Server environment:java.home=C:\Program Files\Java\jre6
+2014.11.28 12:21:03 org.apache.zookeeper.Environment-logEnv - Server environment:java.class.path=C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-main;C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-test;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.6.1.jar;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-log4j12\jars\slf4j-log4j12-1.6.1.jar;C:\Users\Administrator\.ant\cache\log4j\log4j\bundles\log4j-1.2.16.jar;C:\Users\Administrator\.ant\cache\jline\jline\jars\jline-0.9.94.jar;C:\Users\Administrator\.ant\cache\io.netty\netty\jars\netty-3.7.0.Final.jar;C:\Users\Administrator\.ant\cache\junit\junit\jars\junit-4.8.1.jar;C:\Users\Administrator\.ant\cache\org.mockito\mockito-all\jars\mockito-all-1.8.2.jar;C:\Users\Administrator\.ant\cache\checkstyle\checkstyle\jars\checkstyle-5.0.jar;/C:/workspace/oepe-helios-all-in-one-11.1.1.6.1.201010012100-win32/configuration/org.eclipse.osgi/bundles/384/1/.cp/;/C:/workspace/oepe-helios-all-in-one-11.1.1.6.1.201010012100-win32/configuration/org.eclipse.osgi/bundles/382/1/.cp/;/C:/workspace/oepe-helios-all-in-one-11.1.1.6.1.201010012100-win32/configuration/org.eclipse.osgi/bundles/383/1/.cp/
+2014.11.28 12:21:03 org.apache.zookeeper.Environment-logEnv - Server environment:java.library.path=C:\Program Files\Java\jre6\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:/Program Files/Java/jre6/lib/i386;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\TortoiseSVN\bin;C:\Program Files\apache-maven-3.1.0\bin;C:\Program Files\Java\jdk1.6.0_45\bin;C:\Program Files\TortoiseGit\bin;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\VisualSVN Server\bin;C:\Program Files\apache-ant-1.9.2\bin;C:\Program Files\erl6.1\bin;C:\Python27;C:\Program Files\GTK2-Runtime\bin;C:\FPC\2.6.4\bin\i386-Win32;.
+2014.11.28 12:21:03 org.apache.zookeeper.Environment-logEnv - Server environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\2\
+2014.11.28 12:21:03 org.apache.zookeeper.Environment-logEnv - Server environment:java.compiler=<NA>
+2014.11.28 12:21:03 org.apache.zookeeper.Environment-logEnv - Server environment:os.name=Windows Server 2008
+2014.11.28 12:21:03 org.apache.zookeeper.Environment-logEnv - Server environment:os.arch=x86
+2014.11.28 12:21:03 org.apache.zookeeper.Environment-logEnv - Server environment:os.version=6.0
+2014.11.28 12:21:03 org.apache.zookeeper.Environment-logEnv - Server environment:user.name=Administrator
+2014.11.28 12:21:03 org.apache.zookeeper.Environment-logEnv - Server environment:user.home=C:\Users\Administrator
+2014.11.28 12:21:03 org.apache.zookeeper.Environment-logEnv - Server environment:user.dir=C:\projects\stuying\zookeeper-3.4.6
+2014.11.28 12:21:03 org.apache.zookeeper.server.ZooKeeperServer-setTickTime - tickTime set to 2000
+2014.11.28 12:21:03 org.apache.zookeeper.server.ZooKeeperServer-setMinSessionTimeout - minSessionTimeout set to -1
+2014.11.28 12:21:03 org.apache.zookeeper.server.ZooKeeperServer-setMaxSessionTimeout - maxSessionTimeout set to -1
+2014.11.28 12:21:03 org.apache.zookeeper.server.NIOServerCnxnFactory-configure - binding to port 0.0.0.0/0.0.0.0:3181
+2014.11.28 12:21:03 org.apache.zookeeper.server.NIOServerCnxnFactory-run - Accepted socket connection from /127.0.0.1:64920
+2014.11.28 12:21:03 org.apache.zookeeper.server.NIOServerCnxn-checkFourLetterWord - Processing stat command from /127.0.0.1:64920
+2014.11.28 12:21:03 org.apache.zookeeper.server.NIOServerCnxn$StatCommand-commandRun - Stat command output
+2014.11.28 12:21:03 org.apache.zookeeper.server.NIOServerCnxn-closeSock - Closed socket connection for client /127.0.0.1:64920 (no session established for client)
+2014.11.28 12:21:03 org.apache.zookeeper.Environment-logEnv - Client environment:zookeeper.version=3.4.6--1, built on 05/15/2014 07:37 GMT
+2014.11.28 12:21:03 org.apache.zookeeper.Environment-logEnv - Client environment:host.name=SERVER-103
+2014.11.28 12:21:03 org.apache.zookeeper.Environment-logEnv - Client environment:java.version=1.6.0_45
+2014.11.28 12:21:03 org.apache.zookeeper.Environment-logEnv - Client environment:java.vendor=Sun Microsystems Inc.
+2014.11.28 12:21:03 org.apache.zookeeper.Environment-logEnv - Client environment:java.home=C:\Program Files\Java\jre6
+2014.11.28 12:21:03 org.apache.zookeeper.Environment-logEnv - Client environment:java.class.path=C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-main;C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-test;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.6.1.jar;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-log4j12\jars\slf4j-log4j12-1.6.1.jar;C:\Users\Administrator\.ant\cache\log4j\log4j\bundles\log4j-1.2.16.jar;C:\Users\Administrator\.ant\cache\jline\jline\jars\jline-0.9.94.jar;C:\Users\Administrator\.ant\cache\io.netty\netty\jars\netty-3.7.0.Final.jar;C:\Users\Administrator\.ant\cache\junit\junit\jars\junit-4.8.1.jar;C:\Users\Administrator\.ant\cache\org.mockito\mockito-all\jars\mockito-all-1.8.2.jar;C:\Users\Administrator\.ant\cache\checkstyle\checkstyle\jars\checkstyle-5.0.jar;/C:/workspace/oepe-helios-all-in-one-11.1.1.6.1.201010012100-win32/configuration/org.eclipse.osgi/bundles/384/1/.cp/;/C:/workspace/oepe-helios-all-in-one-11.1.1.6.1.201010012100-win32/configuration/org.eclipse.osgi/bundles/382/1/.cp/;/C:/workspace/oepe-helios-all-in-one-11.1.1.6.1.201010012100-win32/configuration/org.eclipse.osgi/bundles/383/1/.cp/
+2014.11.28 12:21:03 org.apache.zookeeper.Environment-logEnv - Client environment:java.library.path=C:\Program Files\Java\jre6\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:/Program Files/Java/jre6/lib/i386;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\TortoiseSVN\bin;C:\Program Files\apache-maven-3.1.0\bin;C:\Program Files\Java\jdk1.6.0_45\bin;C:\Program Files\TortoiseGit\bin;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\VisualSVN Server\bin;C:\Program Files\apache-ant-1.9.2\bin;C:\Program Files\erl6.1\bin;C:\Python27;C:\Program Files\GTK2-Runtime\bin;C:\FPC\2.6.4\bin\i386-Win32;.
+2014.11.28 12:21:03 org.apache.zookeeper.Environment-logEnv - Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\2\
+2014.11.28 12:21:03 org.apache.zookeeper.Environment-logEnv - Client environment:java.compiler=<NA>
+2014.11.28 12:21:03 org.apache.zookeeper.Environment-logEnv - Client environment:os.name=Windows Server 2008
+2014.11.28 12:21:03 org.apache.zookeeper.Environment-logEnv - Client environment:os.arch=x86
+2014.11.28 12:21:03 org.apache.zookeeper.Environment-logEnv - Client environment:os.version=6.0
+2014.11.28 12:21:03 org.apache.zookeeper.Environment-logEnv - Client environment:user.name=Administrator
+2014.11.28 12:21:03 org.apache.zookeeper.Environment-logEnv - Client environment:user.home=C:\Users\Administrator
+2014.11.28 12:21:03 org.apache.zookeeper.Environment-logEnv - Client environment:user.dir=C:\projects\stuying\zookeeper-3.4.6
+2014.11.28 12:21:03 org.apache.zookeeper.ZooKeeper-<init> - Initiating client connection, connectString=127.0.0.1:3181 sessionTimeout=30000 watcher=org.apache.zookeeper.server.ZooKeeperServerMainTest@123b25c
+2014.11.28 12:21:03 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3181. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 12:21:03 org.apache.zookeeper.ClientCnxn$SendThread-primeConnection - Socket connection established to 127.0.0.1/127.0.0.1:3181, initiating session
+2014.11.28 12:21:03 org.apache.zookeeper.server.NIOServerCnxnFactory-run - Accepted socket connection from /127.0.0.1:64928
+2014.11.28 12:21:03 org.apache.zookeeper.server.ZooKeeperServer-processConnectRequest - Client attempting to establish new session at /127.0.0.1:64928
+2014.11.28 12:21:03 org.apache.zookeeper.server.persistence.FileTxnLog-append - Creating new log file: log.1
+2014.11.28 12:21:03 org.apache.zookeeper.server.ZooKeeperServer-finishSessionInit - Established session 0x149f4a178a30000 with negotiated timeout 30000 for client /127.0.0.1:64928
+2014.11.28 12:21:03 org.apache.zookeeper.ClientCnxn$SendThread-onConnected - Session establishment complete on server 127.0.0.1/127.0.0.1:3181, sessionid = 0x149f4a178a30000, negotiated timeout = 30000
+2014.11.28 12:21:03 org.apache.zookeeper.server.PrepRequestProcessor-pRequest2Txn - Processed session termination for sessionid: 0x149f4a178a30000
+2014.11.28 12:21:03 org.apache.zookeeper.ZooKeeper-close - Session: 0x149f4a178a30000 closed
+2014.11.28 12:21:03 org.apache.zookeeper.ClientCnxn$EventThread-run - EventThread shut down
+2014.11.28 12:21:03 org.apache.zookeeper.server.NIOServerCnxn-closeSock - Closed socket connection for client /127.0.0.1:64928 which had sessionid 0x149f4a178a30000
+2014.11.28 12:21:03 org.apache.zookeeper.server.NIOServerCnxnFactory-run - NIOServerCnxn factory exited run method
+2014.11.28 12:21:03 org.apache.zookeeper.server.ZooKeeperServer-shutdown - shutting down
+2014.11.28 12:21:03 org.apache.zookeeper.server.SessionTrackerImpl-shutdown - Shutting down
+2014.11.28 12:21:03 org.apache.zookeeper.server.PrepRequestProcessor-shutdown - Shutting down
+2014.11.28 12:21:03 org.apache.zookeeper.server.ZooKeeperServer-shutdown - shutting down
+2014.11.28 12:21:03 org.apache.zookeeper.server.SessionTrackerImpl-shutdown - Shutting down
+2014.11.28 12:21:03 org.apache.zookeeper.server.PrepRequestProcessor-shutdown - Shutting down
+2014.11.28 12:21:03 org.apache.zookeeper.server.PrepRequestProcessor-run - PrepRequestProcessor exited loop!
+2014.11.28 12:21:03 org.apache.zookeeper.server.SyncRequestProcessor-shutdown - Shutting down
+2014.11.28 12:21:03 org.apache.zookeeper.server.SyncRequestProcessor-shutdown - Shutting down
+2014.11.28 12:21:03 org.apache.zookeeper.server.SyncRequestProcessor-run - SyncRequestProcessor exited!
+2014.11.28 12:21:03 org.apache.zookeeper.server.FinalRequestProcessor-shutdown - shutdown of request processor complete
+2014.11.28 12:21:03 org.apache.zookeeper.server.FinalRequestProcessor-shutdown - shutdown of request processor complete
+2014.11.28 12:21:03 org.apache.zookeeper.client.FourLetterWordMain-send4LetterWord - connecting to 127.0.0.1 3181
+2014.11.28 12:21:04 org.apache.zookeeper.server.SessionTrackerImpl-run - SessionTrackerImpl exited loop!
+2014.11.28 12:21:04 org.apache.zookeeper.JUnit4ZKTestRunner$LoggedInvokeMethod-evaluate - Memory used 1931
+2014.11.28 12:21:04 org.apache.zookeeper.JUnit4ZKTestRunner$LoggedInvokeMethod-evaluate - Number of threads 6
+2014.11.28 12:21:04 org.apache.zookeeper.JUnit4ZKTestRunner$LoggedInvokeMethod-evaluate - FINISHED TEST METHOD testStandalone
+2014.11.28 12:21:04 org.apache.zookeeper.ZKTestCase$1-succeeded - SUCCEEDED testStandalone
+2014.11.28 12:21:04 org.apache.zookeeper.ZKTestCase$1-finished - FINISHED testStandalone
+2014.11.28 16:11:05 org.apache.zookeeper.ZKTestCase$1-starting - STARTING testStandalone
+2014.11.28 16:11:05 org.apache.zookeeper.JUnit4ZKTestRunner$LoggedInvokeMethod-evaluate - RUNNING TEST METHOD testStandalone
+2014.11.28 16:11:05 org.apache.zookeeper.client.FourLetterWordMain-send4LetterWord - connecting to 127.0.0.1 3181
+2014.11.28 16:11:05 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parse - Reading configuration from: build\test7174082291486057182.junit.dir\zoo.cfg
+2014.11.28 16:11:05 org.apache.zookeeper.server.ZooKeeperServerMain-runFromConfig - Starting server
+2014.11.28 16:11:06 org.apache.zookeeper.Environment-logEnv - Server environment:zookeeper.version=3.4.6--1, built on 05/15/2014 07:37 GMT
+2014.11.28 16:11:06 org.apache.zookeeper.Environment-logEnv - Server environment:host.name=SERVER-103
+2014.11.28 16:11:06 org.apache.zookeeper.Environment-logEnv - Server environment:java.version=1.6.0_45
+2014.11.28 16:11:06 org.apache.zookeeper.Environment-logEnv - Server environment:java.vendor=Sun Microsystems Inc.
+2014.11.28 16:11:06 org.apache.zookeeper.Environment-logEnv - Server environment:java.home=C:\Program Files\Java\jre6
+2014.11.28 16:11:06 org.apache.zookeeper.Environment-logEnv - Server environment:java.class.path=C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-main;C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-test;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.6.1.jar;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-log4j12\jars\slf4j-log4j12-1.6.1.jar;C:\Users\Administrator\.ant\cache\log4j\log4j\bundles\log4j-1.2.16.jar;C:\Users\Administrator\.ant\cache\jline\jline\jars\jline-0.9.94.jar;C:\Users\Administrator\.ant\cache\io.netty\netty\jars\netty-3.7.0.Final.jar;C:\Users\Administrator\.ant\cache\junit\junit\jars\junit-4.8.1.jar;C:\Users\Administrator\.ant\cache\org.mockito\mockito-all\jars\mockito-all-1.8.2.jar;C:\Users\Administrator\.ant\cache\checkstyle\checkstyle\jars\checkstyle-5.0.jar;/C:/workspace/oepe-helios-all-in-one-11.1.1.6.1.201010012100-win32/configuration/org.eclipse.osgi/bundles/384/1/.cp/;/C:/workspace/oepe-helios-all-in-one-11.1.1.6.1.201010012100-win32/configuration/org.eclipse.osgi/bundles/382/1/.cp/;/C:/workspace/oepe-helios-all-in-one-11.1.1.6.1.201010012100-win32/configuration/org.eclipse.osgi/bundles/383/1/.cp/
+2014.11.28 16:11:06 org.apache.zookeeper.Environment-logEnv - Server environment:java.library.path=C:\Program Files\Java\jre6\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:/Program Files/Java/jre6/lib/i386;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\TortoiseSVN\bin;C:\Program Files\apache-maven-3.1.0\bin;C:\Program Files\Java\jdk1.6.0_45\bin;C:\Program Files\TortoiseGit\bin;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\VisualSVN Server\bin;C:\Program Files\apache-ant-1.9.2\bin;C:\Program Files\erl6.1\bin;C:\Python27;C:\Program Files\GTK2-Runtime\bin;C:\FPC\2.6.4\bin\i386-Win32;.
+2014.11.28 16:11:06 org.apache.zookeeper.Environment-logEnv - Server environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\2\
+2014.11.28 16:11:06 org.apache.zookeeper.Environment-logEnv - Server environment:java.compiler=<NA>
+2014.11.28 16:11:06 org.apache.zookeeper.Environment-logEnv - Server environment:os.name=Windows Server 2008
+2014.11.28 16:11:06 org.apache.zookeeper.Environment-logEnv - Server environment:os.arch=x86
+2014.11.28 16:11:06 org.apache.zookeeper.Environment-logEnv - Server environment:os.version=6.0
+2014.11.28 16:11:06 org.apache.zookeeper.Environment-logEnv - Server environment:user.name=Administrator
+2014.11.28 16:11:06 org.apache.zookeeper.Environment-logEnv - Server environment:user.home=C:\Users\Administrator
+2014.11.28 16:11:06 org.apache.zookeeper.Environment-logEnv - Server environment:user.dir=C:\projects\stuying\zookeeper-3.4.6
+2014.11.28 16:11:06 org.apache.zookeeper.server.ZooKeeperServer-setTickTime - tickTime set to 2000
+2014.11.28 16:11:06 org.apache.zookeeper.server.ZooKeeperServer-setMinSessionTimeout - minSessionTimeout set to -1
+2014.11.28 16:11:06 org.apache.zookeeper.server.ZooKeeperServer-setMaxSessionTimeout - maxSessionTimeout set to -1
+2014.11.28 16:11:06 org.apache.zookeeper.server.NIOServerCnxnFactory-configure - binding to port 0.0.0.0/0.0.0.0:3181
+2014.11.28 16:11:06 org.apache.zookeeper.server.NIOServerCnxnFactory-run - Accepted socket connection from /127.0.0.1:56160
+2014.11.28 16:11:06 org.apache.zookeeper.server.NIOServerCnxn-checkFourLetterWord - Processing stat command from /127.0.0.1:56160
+2014.11.28 16:11:06 org.apache.zookeeper.server.NIOServerCnxn$StatCommand-commandRun - Stat command output
+2014.11.28 16:11:06 org.apache.zookeeper.server.NIOServerCnxn-closeSock - Closed socket connection for client /127.0.0.1:56160 (no session established for client)
+2014.11.28 16:11:06 org.apache.zookeeper.Environment-logEnv - Client environment:zookeeper.version=3.4.6--1, built on 05/15/2014 07:37 GMT
+2014.11.28 16:11:06 org.apache.zookeeper.Environment-logEnv - Client environment:host.name=SERVER-103
+2014.11.28 16:11:06 org.apache.zookeeper.Environment-logEnv - Client environment:java.version=1.6.0_45
+2014.11.28 16:11:06 org.apache.zookeeper.Environment-logEnv - Client environment:java.vendor=Sun Microsystems Inc.
+2014.11.28 16:11:06 org.apache.zookeeper.Environment-logEnv - Client environment:java.home=C:\Program Files\Java\jre6
+2014.11.28 16:11:06 org.apache.zookeeper.Environment-logEnv - Client environment:java.class.path=C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-main;C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-test;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.6.1.jar;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-log4j12\jars\slf4j-log4j12-1.6.1.jar;C:\Users\Administrator\.ant\cache\log4j\log4j\bundles\log4j-1.2.16.jar;C:\Users\Administrator\.ant\cache\jline\jline\jars\jline-0.9.94.jar;C:\Users\Administrator\.ant\cache\io.netty\netty\jars\netty-3.7.0.Final.jar;C:\Users\Administrator\.ant\cache\junit\junit\jars\junit-4.8.1.jar;C:\Users\Administrator\.ant\cache\org.mockito\mockito-all\jars\mockito-all-1.8.2.jar;C:\Users\Administrator\.ant\cache\checkstyle\checkstyle\jars\checkstyle-5.0.jar;/C:/workspace/oepe-helios-all-in-one-11.1.1.6.1.201010012100-win32/configuration/org.eclipse.osgi/bundles/384/1/.cp/;/C:/workspace/oepe-helios-all-in-one-11.1.1.6.1.201010012100-win32/configuration/org.eclipse.osgi/bundles/382/1/.cp/;/C:/workspace/oepe-helios-all-in-one-11.1.1.6.1.201010012100-win32/configuration/org.eclipse.osgi/bundles/383/1/.cp/
+2014.11.28 16:11:06 org.apache.zookeeper.Environment-logEnv - Client environment:java.library.path=C:\Program Files\Java\jre6\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:/Program Files/Java/jre6/lib/i386;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\TortoiseSVN\bin;C:\Program Files\apache-maven-3.1.0\bin;C:\Program Files\Java\jdk1.6.0_45\bin;C:\Program Files\TortoiseGit\bin;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\VisualSVN Server\bin;C:\Program Files\apache-ant-1.9.2\bin;C:\Program Files\erl6.1\bin;C:\Python27;C:\Program Files\GTK2-Runtime\bin;C:\FPC\2.6.4\bin\i386-Win32;.
+2014.11.28 16:11:06 org.apache.zookeeper.Environment-logEnv - Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\2\
+2014.11.28 16:11:06 org.apache.zookeeper.Environment-logEnv - Client environment:java.compiler=<NA>
+2014.11.28 16:11:06 org.apache.zookeeper.Environment-logEnv - Client environment:os.name=Windows Server 2008
+2014.11.28 16:11:06 org.apache.zookeeper.Environment-logEnv - Client environment:os.arch=x86
+2014.11.28 16:11:06 org.apache.zookeeper.Environment-logEnv - Client environment:os.version=6.0
+2014.11.28 16:11:06 org.apache.zookeeper.Environment-logEnv - Client environment:user.name=Administrator
+2014.11.28 16:11:06 org.apache.zookeeper.Environment-logEnv - Client environment:user.home=C:\Users\Administrator
+2014.11.28 16:11:06 org.apache.zookeeper.Environment-logEnv - Client environment:user.dir=C:\projects\stuying\zookeeper-3.4.6
+2014.11.28 16:11:06 org.apache.zookeeper.ZooKeeper-<init> - Initiating client connection, connectString=127.0.0.1:3181 sessionTimeout=30000 watcher=org.apache.zookeeper.server.ZooKeeperServerMainTest@92bbba
+2014.11.28 16:11:06 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:3181. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.11.28 16:11:06 org.apache.zookeeper.ClientCnxn$SendThread-primeConnection - Socket connection established to 127.0.0.1/127.0.0.1:3181, initiating session
+2014.11.28 16:11:06 org.apache.zookeeper.server.NIOServerCnxnFactory-run - Accepted socket connection from /127.0.0.1:56168
+2014.11.28 16:11:06 org.apache.zookeeper.server.ZooKeeperServer-processConnectRequest - Client attempting to establish new session at /127.0.0.1:56168
+2014.11.28 16:11:06 org.apache.zookeeper.server.persistence.FileTxnLog-append - Creating new log file: log.1
+2014.11.28 16:11:06 org.apache.zookeeper.server.ZooKeeperServer-finishSessionInit - Established session 0x149f57415ea0000 with negotiated timeout 30000 for client /127.0.0.1:56168
+2014.11.28 16:11:06 org.apache.zookeeper.ClientCnxn$SendThread-onConnected - Session establishment complete on server 127.0.0.1/127.0.0.1:3181, sessionid = 0x149f57415ea0000, negotiated timeout = 30000
+2014.11.28 16:11:06 org.apache.zookeeper.server.PrepRequestProcessor-pRequest2Txn - Processed session termination for sessionid: 0x149f57415ea0000
+2014.11.28 16:11:06 org.apache.zookeeper.ZooKeeper-close - Session: 0x149f57415ea0000 closed
+2014.11.28 16:11:06 org.apache.zookeeper.ClientCnxn$EventThread-run - EventThread shut down
+2014.11.28 16:11:06 org.apache.zookeeper.server.NIOServerCnxn-closeSock - Closed socket connection for client /127.0.0.1:56168 which had sessionid 0x149f57415ea0000
+2014.11.28 16:11:06 org.apache.zookeeper.server.NIOServerCnxnFactory-run - NIOServerCnxn factory exited run method
+2014.11.28 16:11:06 org.apache.zookeeper.server.ZooKeeperServer-shutdown - shutting down
+2014.11.28 16:11:06 org.apache.zookeeper.server.SessionTrackerImpl-shutdown - Shutting down
+2014.11.28 16:11:06 org.apache.zookeeper.server.PrepRequestProcessor-shutdown - Shutting down
+2014.11.28 16:11:06 org.apache.zookeeper.server.PrepRequestProcessor-run - PrepRequestProcessor exited loop!
+2014.11.28 16:11:06 org.apache.zookeeper.server.SyncRequestProcessor-shutdown - Shutting down
+2014.11.28 16:11:06 org.apache.zookeeper.server.SyncRequestProcessor-run - SyncRequestProcessor exited!
+2014.11.28 16:11:06 org.apache.zookeeper.server.ZooKeeperServer-shutdown - shutting down
+2014.11.28 16:11:06 org.apache.zookeeper.server.SessionTrackerImpl-shutdown - Shutting down
+2014.11.28 16:11:06 org.apache.zookeeper.server.PrepRequestProcessor-shutdown - Shutting down
+2014.11.28 16:11:06 org.apache.zookeeper.server.SyncRequestProcessor-shutdown - Shutting down
+2014.11.28 16:11:06 org.apache.zookeeper.server.FinalRequestProcessor-shutdown - shutdown of request processor complete
+2014.11.28 16:11:06 org.apache.zookeeper.server.FinalRequestProcessor-shutdown - shutdown of request processor complete
+2014.11.28 16:11:06 org.apache.zookeeper.client.FourLetterWordMain-send4LetterWord - connecting to 127.0.0.1 3181
+2014.11.28 16:11:07 org.apache.zookeeper.JUnit4ZKTestRunner$LoggedInvokeMethod-evaluate - Memory used 1810
+2014.11.28 16:11:07 org.apache.zookeeper.JUnit4ZKTestRunner$LoggedInvokeMethod-evaluate - Number of threads 7
+2014.11.28 16:11:07 org.apache.zookeeper.JUnit4ZKTestRunner$LoggedInvokeMethod-evaluate - FINISHED TEST METHOD testStandalone
+2014.11.28 16:11:07 org.apache.zookeeper.ZKTestCase$1-succeeded - SUCCEEDED testStandalone
+2014.11.28 16:11:07 org.apache.zookeeper.ZKTestCase$1-finished - FINISHED testStandalone
+2014.11.28 16:15:58 org.apache.zookeeper.leolee.ZooKeeperServerTest-main - Unable to register log4j JMX control
+2014.11.28 16:16:21 org.apache.zookeeper.leolee.ZooKeeperServerTest-main - Unable to register log4j JMX control
+2014.11.28 16:24:51 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parse - Reading configuration from: C:\projects\stuying\zookeeper-3.4.6\conf\zoo_sample.cfg
+2014.11.28 16:28:25 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parse - Reading configuration from: C:\projects\stuying\zookeeper-3.4.6\conf\zoo_sample.cfg
+2014.11.28 16:28:25 org.apache.zookeeper.leolee.ZooKeeperServerTest-runFromConfig - Starting server
+2014.11.28 16:28:25 org.apache.zookeeper.Environment-logEnv - Server environment:zookeeper.version=3.4.6--1, built on 05/15/2014 07:37 GMT
+2014.11.28 16:28:25 org.apache.zookeeper.Environment-logEnv - Server environment:host.name=SERVER-103
+2014.11.28 16:28:25 org.apache.zookeeper.Environment-logEnv - Server environment:java.version=1.6.0_45
+2014.11.28 16:28:25 org.apache.zookeeper.Environment-logEnv - Server environment:java.vendor=Sun Microsystems Inc.
+2014.11.28 16:28:25 org.apache.zookeeper.Environment-logEnv - Server environment:java.home=C:\Program Files\Java\jre6
+2014.11.28 16:28:25 org.apache.zookeeper.Environment-logEnv - Server environment:java.class.path=C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-main;C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-test;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.6.1.jar;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-log4j12\jars\slf4j-log4j12-1.6.1.jar;C:\Users\Administrator\.ant\cache\log4j\log4j\bundles\log4j-1.2.16.jar;C:\Users\Administrator\.ant\cache\jline\jline\jars\jline-0.9.94.jar;C:\Users\Administrator\.ant\cache\io.netty\netty\jars\netty-3.7.0.Final.jar;C:\Users\Administrator\.ant\cache\junit\junit\jars\junit-4.8.1.jar;C:\Users\Administrator\.ant\cache\org.mockito\mockito-all\jars\mockito-all-1.8.2.jar;C:\Users\Administrator\.ant\cache\checkstyle\checkstyle\jars\checkstyle-5.0.jar
+2014.11.28 16:28:25 org.apache.zookeeper.Environment-logEnv - Server environment:java.library.path=C:\Program Files\Java\jre6\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:/Program Files/Java/jre6/lib/i386;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\TortoiseSVN\bin;C:\Program Files\apache-maven-3.1.0\bin;C:\Program Files\Java\jdk1.6.0_45\bin;C:\Program Files\TortoiseGit\bin;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\VisualSVN Server\bin;C:\Program Files\apache-ant-1.9.2\bin;C:\Program Files\erl6.1\bin;C:\Python27;C:\Program Files\GTK2-Runtime\bin;C:\FPC\2.6.4\bin\i386-Win32;.
+2014.11.28 16:28:25 org.apache.zookeeper.Environment-logEnv - Server environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\2\
+2014.11.28 16:28:25 org.apache.zookeeper.Environment-logEnv - Server environment:java.compiler=<NA>
+2014.11.28 16:28:25 org.apache.zookeeper.Environment-logEnv - Server environment:os.name=Windows Server 2008
+2014.11.28 16:28:25 org.apache.zookeeper.Environment-logEnv - Server environment:os.arch=x86
+2014.11.28 16:28:25 org.apache.zookeeper.Environment-logEnv - Server environment:os.version=6.0
+2014.11.28 16:28:25 org.apache.zookeeper.Environment-logEnv - Server environment:user.name=Administrator
+2014.11.28 16:28:25 org.apache.zookeeper.Environment-logEnv - Server environment:user.home=C:\Users\Administrator
+2014.11.28 16:28:25 org.apache.zookeeper.Environment-logEnv - Server environment:user.dir=C:\projects\stuying\zookeeper-3.4.6
+2014.11.28 16:28:25 org.apache.zookeeper.server.ZooKeeperServer-setTickTime - tickTime set to 2000
+2014.11.28 16:28:25 org.apache.zookeeper.server.ZooKeeperServer-setMinSessionTimeout - minSessionTimeout set to -1
+2014.11.28 16:28:25 org.apache.zookeeper.server.ZooKeeperServer-setMaxSessionTimeout - maxSessionTimeout set to -1
+2014.11.28 16:28:25 org.apache.zookeeper.server.NIOServerCnxnFactory-configure - binding to port 0.0.0.0/0.0.0.0:2181
+2014.11.28 16:29:30 org.apache.zookeeper.server.NIOServerCnxnFactory-run - Accepted socket connection from /192.168.2.104:56528
+2014.11.28 16:29:30 org.apache.zookeeper.server.ZooKeeperServer-processConnectRequest - Client attempting to establish new session at /192.168.2.104:56528
+2014.11.28 16:29:30 org.apache.zookeeper.server.persistence.FileTxnLog-append - Creating new log file: log.1
+2014.11.28 16:29:30 org.apache.zookeeper.server.ZooKeeperServer-finishSessionInit - Established session 0x149f583f2140000 with negotiated timeout 4000 for client /192.168.2.104:56528
+2014.11.28 16:34:31 org.apache.zookeeper.server.NIOServerCnxn-closeSock - Closed socket connection for client /192.168.2.104:56528 which had sessionid 0x149f583f2140000
+2014.11.28 16:34:34 org.apache.zookeeper.server.ZooKeeperServer-expire - Expiring session 0x149f583f2140000, timeout of 4000ms exceeded
+2014.11.28 16:34:34 org.apache.zookeeper.server.PrepRequestProcessor-pRequest2Txn - Processed session termination for sessionid: 0x149f583f2140000
+2014.12.01 14:33:27 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parse - Reading configuration from: C:\projects\stuying\zookeeper-3.4.6\conf\zoo_sample.cfg
+2014.12.01 14:33:27 org.apache.zookeeper.leolee.ZooKeeperServerTest-runFromConfig - Starting server
+2014.12.01 14:33:27 org.apache.zookeeper.Environment-logEnv - Server environment:zookeeper.version=3.4.6--1, built on 05/15/2014 07:37 GMT
+2014.12.01 14:33:27 org.apache.zookeeper.Environment-logEnv - Server environment:host.name=SERVER-103
+2014.12.01 14:33:27 org.apache.zookeeper.Environment-logEnv - Server environment:java.version=1.6.0_45
+2014.12.01 14:33:27 org.apache.zookeeper.Environment-logEnv - Server environment:java.vendor=Sun Microsystems Inc.
+2014.12.01 14:33:27 org.apache.zookeeper.Environment-logEnv - Server environment:java.home=C:\Program Files\Java\jre6
+2014.12.01 14:33:27 org.apache.zookeeper.Environment-logEnv - Server environment:java.class.path=C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-main;C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-test;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.6.1.jar;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-log4j12\jars\slf4j-log4j12-1.6.1.jar;C:\Users\Administrator\.ant\cache\log4j\log4j\bundles\log4j-1.2.16.jar;C:\Users\Administrator\.ant\cache\jline\jline\jars\jline-0.9.94.jar;C:\Users\Administrator\.ant\cache\io.netty\netty\jars\netty-3.7.0.Final.jar;C:\Users\Administrator\.ant\cache\junit\junit\jars\junit-4.8.1.jar;C:\Users\Administrator\.ant\cache\org.mockito\mockito-all\jars\mockito-all-1.8.2.jar;C:\Users\Administrator\.ant\cache\checkstyle\checkstyle\jars\checkstyle-5.0.jar
+2014.12.01 14:33:27 org.apache.zookeeper.Environment-logEnv - Server environment:java.library.path=C:\Program Files\Java\jre6\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:/Program Files/Java/jre6/lib/i386;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\TortoiseSVN\bin;C:\Program Files\apache-maven-3.1.0\bin;C:\Program Files\Java\jdk1.6.0_45\bin;C:\Program Files\TortoiseGit\bin;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\VisualSVN Server\bin;C:\Program Files\apache-ant-1.9.2\bin;C:\Program Files\erl6.1\bin;C:\Python27;C:\Program Files\GTK2-Runtime\bin;C:\FPC\2.6.4\bin\i386-Win32;.
+2014.12.01 14:33:27 org.apache.zookeeper.Environment-logEnv - Server environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\2\
+2014.12.01 14:33:27 org.apache.zookeeper.Environment-logEnv - Server environment:java.compiler=<NA>
+2014.12.01 14:33:27 org.apache.zookeeper.Environment-logEnv - Server environment:os.name=Windows Server 2008
+2014.12.01 14:33:27 org.apache.zookeeper.Environment-logEnv - Server environment:os.arch=x86
+2014.12.01 14:33:27 org.apache.zookeeper.Environment-logEnv - Server environment:os.version=6.0
+2014.12.01 14:33:27 org.apache.zookeeper.Environment-logEnv - Server environment:user.name=Administrator
+2014.12.01 14:33:27 org.apache.zookeeper.Environment-logEnv - Server environment:user.home=C:\Users\Administrator
+2014.12.01 14:33:27 org.apache.zookeeper.Environment-logEnv - Server environment:user.dir=C:\projects\stuying\zookeeper-3.4.6
+2014.12.01 14:33:27 org.apache.zookeeper.server.ZooKeeperServer-setTickTime - tickTime set to 2000
+2014.12.01 14:33:27 org.apache.zookeeper.server.ZooKeeperServer-setMinSessionTimeout - minSessionTimeout set to -1
+2014.12.01 14:33:27 org.apache.zookeeper.server.ZooKeeperServer-setMaxSessionTimeout - maxSessionTimeout set to -1
+2014.12.01 14:33:28 org.apache.zookeeper.server.NIOServerCnxnFactory-configure - binding to port 0.0.0.0/0.0.0.0:2181
+2014.12.01 14:33:47 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parse - Reading configuration from: C:\projects\stuying\zookeeper-3.4.6\conf\zoo_sample.cfg
+2014.12.01 14:33:47 org.apache.zookeeper.leolee.ZooKeeperServerTest-runFromConfig - Starting server
+2014.12.01 14:33:47 org.apache.zookeeper.Environment-logEnv - Server environment:zookeeper.version=3.4.6--1, built on 05/15/2014 07:37 GMT
+2014.12.01 14:33:47 org.apache.zookeeper.Environment-logEnv - Server environment:host.name=SERVER-103
+2014.12.01 14:33:47 org.apache.zookeeper.Environment-logEnv - Server environment:java.version=1.6.0_45
+2014.12.01 14:33:47 org.apache.zookeeper.Environment-logEnv - Server environment:java.vendor=Sun Microsystems Inc.
+2014.12.01 14:33:47 org.apache.zookeeper.Environment-logEnv - Server environment:java.home=C:\Program Files\Java\jre6
+2014.12.01 14:33:47 org.apache.zookeeper.Environment-logEnv - Server environment:java.class.path=C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-main;C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-test;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.6.1.jar;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-log4j12\jars\slf4j-log4j12-1.6.1.jar;C:\Users\Administrator\.ant\cache\log4j\log4j\bundles\log4j-1.2.16.jar;C:\Users\Administrator\.ant\cache\jline\jline\jars\jline-0.9.94.jar;C:\Users\Administrator\.ant\cache\io.netty\netty\jars\netty-3.7.0.Final.jar;C:\Users\Administrator\.ant\cache\junit\junit\jars\junit-4.8.1.jar;C:\Users\Administrator\.ant\cache\org.mockito\mockito-all\jars\mockito-all-1.8.2.jar;C:\Users\Administrator\.ant\cache\checkstyle\checkstyle\jars\checkstyle-5.0.jar
+2014.12.01 14:33:47 org.apache.zookeeper.Environment-logEnv - Server environment:java.library.path=C:\Program Files\Java\jre6\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:/Program Files/Java/jre6/lib/i386;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\TortoiseSVN\bin;C:\Program Files\apache-maven-3.1.0\bin;C:\Program Files\Java\jdk1.6.0_45\bin;C:\Program Files\TortoiseGit\bin;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\VisualSVN Server\bin;C:\Program Files\apache-ant-1.9.2\bin;C:\Program Files\erl6.1\bin;C:\Python27;C:\Program Files\GTK2-Runtime\bin;C:\FPC\2.6.4\bin\i386-Win32;.
+2014.12.01 14:33:47 org.apache.zookeeper.Environment-logEnv - Server environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\2\
+2014.12.01 14:33:47 org.apache.zookeeper.Environment-logEnv - Server environment:java.compiler=<NA>
+2014.12.01 14:33:47 org.apache.zookeeper.Environment-logEnv - Server environment:os.name=Windows Server 2008
+2014.12.01 14:33:47 org.apache.zookeeper.Environment-logEnv - Server environment:os.arch=x86
+2014.12.01 14:33:47 org.apache.zookeeper.Environment-logEnv - Server environment:os.version=6.0
+2014.12.01 14:33:47 org.apache.zookeeper.Environment-logEnv - Server environment:user.name=Administrator
+2014.12.01 14:33:47 org.apache.zookeeper.Environment-logEnv - Server environment:user.home=C:\Users\Administrator
+2014.12.01 14:33:47 org.apache.zookeeper.Environment-logEnv - Server environment:user.dir=C:\projects\stuying\zookeeper-3.4.6
+2014.12.01 14:33:47 org.apache.zookeeper.server.ZooKeeperServer-setTickTime - tickTime set to 2000
+2014.12.01 14:33:47 org.apache.zookeeper.server.ZooKeeperServer-setMinSessionTimeout - minSessionTimeout set to -1
+2014.12.01 14:33:47 org.apache.zookeeper.server.ZooKeeperServer-setMaxSessionTimeout - maxSessionTimeout set to -1
+2014.12.01 14:33:47 org.apache.zookeeper.server.NIOServerCnxnFactory-configure - binding to port 0.0.0.0/0.0.0.0:2181
+2014.12.01 14:34:13 org.apache.zookeeper.server.NIOServerCnxnFactory-run - Accepted socket connection from /192.168.2.104:51404
+2014.12.01 14:34:13 org.apache.zookeeper.server.ZooKeeperServer-processConnectRequest - Client attempting to establish new session at /192.168.2.104:51404
+2014.12.01 14:34:13 org.apache.zookeeper.server.persistence.FileTxnLog-append - Creating new log file: log.3
+2014.12.01 14:34:13 org.apache.zookeeper.server.ZooKeeperServer-finishSessionInit - Established session 0x14a048dc8bc0000 with negotiated timeout 4000 for client /192.168.2.104:51404
+2014.12.01 14:34:34 org.apache.zookeeper.server.NIOServerCnxn-closeSock - Closed socket connection for client /192.168.2.104:51404 which had sessionid 0x14a048dc8bc0000
+2014.12.01 15:06:52 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parse - Reading configuration from: C:\projects\stuying\zookeeper-3.4.6\conf\zoo_sample.cfg
+2014.12.01 15:07:00 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parseProperties - Defaulting to majority quorums
+2014.12.01 15:08:24 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parse - Reading configuration from: C:\projects\stuying\zookeeper-3.4.6\conf\zoo_sample.cfg
+2014.12.01 15:08:32 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parseProperties - Defaulting to majority quorums
+2014.12.01 15:08:53 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parse - Reading configuration from: C:\projects\stuying\zookeeper-3.4.6\conf\zoo_sample.cfg
+2014.12.01 15:09:00 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parseProperties - Defaulting to majority quorums
+2014.12.01 15:10:01 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parse - Reading configuration from: C:\projects\stuying\zookeeper-3.4.6\conf\zoo_sample.cfg
+2014.12.01 15:10:09 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parseProperties - Defaulting to majority quorums
+2014.12.01 15:11:10 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parse - Reading configuration from: C:\projects\stuying\zookeeper-3.4.6\conf\zoo_sample.cfg
+2014.12.01 15:11:18 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parseProperties - Defaulting to majority quorums
+2014.12.01 15:11:18 org.apache.zookeeper.leolee.ZooKeeperServerTest-runFromConfig - Starting server
+2014.12.01 15:11:18 org.apache.zookeeper.Environment-logEnv - Server environment:zookeeper.version=3.4.6--1, built on 05/15/2014 07:37 GMT
+2014.12.01 15:11:18 org.apache.zookeeper.Environment-logEnv - Server environment:host.name=SERVER-103
+2014.12.01 15:11:18 org.apache.zookeeper.Environment-logEnv - Server environment:java.version=1.6.0_45
+2014.12.01 15:11:18 org.apache.zookeeper.Environment-logEnv - Server environment:java.vendor=Sun Microsystems Inc.
+2014.12.01 15:11:18 org.apache.zookeeper.Environment-logEnv - Server environment:java.home=C:\Program Files\Java\jre6
+2014.12.01 15:11:18 org.apache.zookeeper.Environment-logEnv - Server environment:java.class.path=C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-main;C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-test;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.6.1.jar;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-log4j12\jars\slf4j-log4j12-1.6.1.jar;C:\Users\Administrator\.ant\cache\log4j\log4j\bundles\log4j-1.2.16.jar;C:\Users\Administrator\.ant\cache\jline\jline\jars\jline-0.9.94.jar;C:\Users\Administrator\.ant\cache\io.netty\netty\jars\netty-3.7.0.Final.jar;C:\Users\Administrator\.ant\cache\junit\junit\jars\junit-4.8.1.jar;C:\Users\Administrator\.ant\cache\org.mockito\mockito-all\jars\mockito-all-1.8.2.jar;C:\Users\Administrator\.ant\cache\checkstyle\checkstyle\jars\checkstyle-5.0.jar
+2014.12.01 15:11:18 org.apache.zookeeper.Environment-logEnv - Server environment:java.library.path=C:\Program Files\Java\jre6\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:/Program Files/Java/jre6/lib/i386;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\TortoiseSVN\bin;C:\Program Files\apache-maven-3.1.0\bin;C:\Program Files\Java\jdk1.6.0_45\bin;C:\Program Files\TortoiseGit\bin;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\VisualSVN Server\bin;C:\Program Files\apache-ant-1.9.2\bin;C:\Program Files\erl6.1\bin;C:\Python27;C:\Program Files\GTK2-Runtime\bin;C:\FPC\2.6.4\bin\i386-Win32;.
+2014.12.01 15:11:18 org.apache.zookeeper.Environment-logEnv - Server environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\2\
+2014.12.01 15:11:18 org.apache.zookeeper.Environment-logEnv - Server environment:java.compiler=<NA>
+2014.12.01 15:11:18 org.apache.zookeeper.Environment-logEnv - Server environment:os.name=Windows Server 2008
+2014.12.01 15:11:18 org.apache.zookeeper.Environment-logEnv - Server environment:os.arch=x86
+2014.12.01 15:11:18 org.apache.zookeeper.Environment-logEnv - Server environment:os.version=6.0
+2014.12.01 15:11:18 org.apache.zookeeper.Environment-logEnv - Server environment:user.name=Administrator
+2014.12.01 15:11:18 org.apache.zookeeper.Environment-logEnv - Server environment:user.home=C:\Users\Administrator
+2014.12.01 15:11:18 org.apache.zookeeper.Environment-logEnv - Server environment:user.dir=C:\projects\stuying\zookeeper-3.4.6
+2014.12.01 15:11:18 org.apache.zookeeper.server.ZooKeeperServer-setTickTime - tickTime set to 2000
+2014.12.01 15:11:18 org.apache.zookeeper.server.ZooKeeperServer-setMinSessionTimeout - minSessionTimeout set to -1
+2014.12.01 15:11:18 org.apache.zookeeper.server.ZooKeeperServer-setMaxSessionTimeout - maxSessionTimeout set to -1
+2014.12.01 15:11:18 org.apache.zookeeper.server.NIOServerCnxnFactory-configure - binding to port 0.0.0.0/0.0.0.0:2181
+2014.12.01 15:11:51 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parse - Reading configuration from: C:\projects\stuying\zookeeper-3.4.6\conf\zoo_sample.cfg
+2014.12.01 15:11:59 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parseProperties - Defaulting to majority quorums
+2014.12.01 15:11:59 org.apache.zookeeper.leolee.ZooKeeperServerTest-runFromConfig - Starting server
+2014.12.01 15:11:59 org.apache.zookeeper.Environment-logEnv - Server environment:zookeeper.version=3.4.6--1, built on 05/15/2014 07:37 GMT
+2014.12.01 15:11:59 org.apache.zookeeper.Environment-logEnv - Server environment:host.name=SERVER-103
+2014.12.01 15:11:59 org.apache.zookeeper.Environment-logEnv - Server environment:java.version=1.6.0_45
+2014.12.01 15:11:59 org.apache.zookeeper.Environment-logEnv - Server environment:java.vendor=Sun Microsystems Inc.
+2014.12.01 15:11:59 org.apache.zookeeper.Environment-logEnv - Server environment:java.home=C:\Program Files\Java\jre6
+2014.12.01 15:11:59 org.apache.zookeeper.Environment-logEnv - Server environment:java.class.path=C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-main;C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-test;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.6.1.jar;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-log4j12\jars\slf4j-log4j12-1.6.1.jar;C:\Users\Administrator\.ant\cache\log4j\log4j\bundles\log4j-1.2.16.jar;C:\Users\Administrator\.ant\cache\jline\jline\jars\jline-0.9.94.jar;C:\Users\Administrator\.ant\cache\io.netty\netty\jars\netty-3.7.0.Final.jar;C:\Users\Administrator\.ant\cache\junit\junit\jars\junit-4.8.1.jar;C:\Users\Administrator\.ant\cache\org.mockito\mockito-all\jars\mockito-all-1.8.2.jar;C:\Users\Administrator\.ant\cache\checkstyle\checkstyle\jars\checkstyle-5.0.jar
+2014.12.01 15:11:59 org.apache.zookeeper.Environment-logEnv - Server environment:java.library.path=C:\Program Files\Java\jre6\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:/Program Files/Java/jre6/lib/i386;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\TortoiseSVN\bin;C:\Program Files\apache-maven-3.1.0\bin;C:\Program Files\Java\jdk1.6.0_45\bin;C:\Program Files\TortoiseGit\bin;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\VisualSVN Server\bin;C:\Program Files\apache-ant-1.9.2\bin;C:\Program Files\erl6.1\bin;C:\Python27;C:\Program Files\GTK2-Runtime\bin;C:\FPC\2.6.4\bin\i386-Win32;.
+2014.12.01 15:11:59 org.apache.zookeeper.Environment-logEnv - Server environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\2\
+2014.12.01 15:11:59 org.apache.zookeeper.Environment-logEnv - Server environment:java.compiler=<NA>
+2014.12.01 15:11:59 org.apache.zookeeper.Environment-logEnv - Server environment:os.name=Windows Server 2008
+2014.12.01 15:11:59 org.apache.zookeeper.Environment-logEnv - Server environment:os.arch=x86
+2014.12.01 15:11:59 org.apache.zookeeper.Environment-logEnv - Server environment:os.version=6.0
+2014.12.01 15:11:59 org.apache.zookeeper.Environment-logEnv - Server environment:user.name=Administrator
+2014.12.01 15:11:59 org.apache.zookeeper.Environment-logEnv - Server environment:user.home=C:\Users\Administrator
+2014.12.01 15:11:59 org.apache.zookeeper.Environment-logEnv - Server environment:user.dir=C:\projects\stuying\zookeeper-3.4.6
+2014.12.01 15:11:59 org.apache.zookeeper.server.ZooKeeperServer-setTickTime - tickTime set to 2000
+2014.12.01 15:11:59 org.apache.zookeeper.server.ZooKeeperServer-setMinSessionTimeout - minSessionTimeout set to -1
+2014.12.01 15:11:59 org.apache.zookeeper.server.ZooKeeperServer-setMaxSessionTimeout - maxSessionTimeout set to -1
+2014.12.01 15:11:59 org.apache.zookeeper.server.NIOServerCnxnFactory-configure - binding to port 0.0.0.0/0.0.0.0:2182
+2014.12.01 15:18:55 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parse - Reading configuration from: C:\projects\stuying\zookeeper-3.4.6\conf\zoo_sample1.cfg
+2014.12.01 15:19:03 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parseProperties - Defaulting to majority quorums
+2014.12.01 15:19:03 org.apache.zookeeper.leolee.ZooKeeperServerTest-runFromConfig - Starting server
+2014.12.01 15:19:03 org.apache.zookeeper.Environment-logEnv - Server environment:zookeeper.version=3.4.6--1, built on 05/15/2014 07:37 GMT
+2014.12.01 15:19:03 org.apache.zookeeper.Environment-logEnv - Server environment:host.name=SERVER-103
+2014.12.01 15:19:03 org.apache.zookeeper.Environment-logEnv - Server environment:java.version=1.6.0_45
+2014.12.01 15:19:03 org.apache.zookeeper.Environment-logEnv - Server environment:java.vendor=Sun Microsystems Inc.
+2014.12.01 15:19:03 org.apache.zookeeper.Environment-logEnv - Server environment:java.home=C:\Program Files\Java\jre6
+2014.12.01 15:19:03 org.apache.zookeeper.Environment-logEnv - Server environment:java.class.path=C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-main;C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-test;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.6.1.jar;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-log4j12\jars\slf4j-log4j12-1.6.1.jar;C:\Users\Administrator\.ant\cache\log4j\log4j\bundles\log4j-1.2.16.jar;C:\Users\Administrator\.ant\cache\jline\jline\jars\jline-0.9.94.jar;C:\Users\Administrator\.ant\cache\io.netty\netty\jars\netty-3.7.0.Final.jar;C:\Users\Administrator\.ant\cache\junit\junit\jars\junit-4.8.1.jar;C:\Users\Administrator\.ant\cache\org.mockito\mockito-all\jars\mockito-all-1.8.2.jar;C:\Users\Administrator\.ant\cache\checkstyle\checkstyle\jars\checkstyle-5.0.jar
+2014.12.01 15:19:03 org.apache.zookeeper.Environment-logEnv - Server environment:java.library.path=C:\Program Files\Java\jre6\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:/Program Files/Java/jre6/lib/i386;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\TortoiseSVN\bin;C:\Program Files\apache-maven-3.1.0\bin;C:\Program Files\Java\jdk1.6.0_45\bin;C:\Program Files\TortoiseGit\bin;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\VisualSVN Server\bin;C:\Program Files\apache-ant-1.9.2\bin;C:\Program Files\erl6.1\bin;C:\Python27;C:\Program Files\GTK2-Runtime\bin;C:\FPC\2.6.4\bin\i386-Win32;.
+2014.12.01 15:19:03 org.apache.zookeeper.Environment-logEnv - Server environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\2\
+2014.12.01 15:19:03 org.apache.zookeeper.Environment-logEnv - Server environment:java.compiler=<NA>
+2014.12.01 15:19:03 org.apache.zookeeper.Environment-logEnv - Server environment:os.name=Windows Server 2008
+2014.12.01 15:19:03 org.apache.zookeeper.Environment-logEnv - Server environment:os.arch=x86
+2014.12.01 15:19:03 org.apache.zookeeper.Environment-logEnv - Server environment:os.version=6.0
+2014.12.01 15:19:03 org.apache.zookeeper.Environment-logEnv - Server environment:user.name=Administrator
+2014.12.01 15:19:03 org.apache.zookeeper.Environment-logEnv - Server environment:user.home=C:\Users\Administrator
+2014.12.01 15:19:03 org.apache.zookeeper.Environment-logEnv - Server environment:user.dir=C:\projects\stuying\zookeeper-3.4.6
+2014.12.01 15:19:03 org.apache.zookeeper.server.ZooKeeperServer-setTickTime - tickTime set to 2000
+2014.12.01 15:19:03 org.apache.zookeeper.server.ZooKeeperServer-setMinSessionTimeout - minSessionTimeout set to -1
+2014.12.01 15:19:03 org.apache.zookeeper.server.ZooKeeperServer-setMaxSessionTimeout - maxSessionTimeout set to -1
+2014.12.01 15:19:03 org.apache.zookeeper.server.NIOServerCnxnFactory-configure - binding to port 0.0.0.0/0.0.0.0:2181
+2014.12.01 15:19:30 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parse - Reading configuration from: C:\projects\stuying\zookeeper-3.4.6\conf\zoo_sample2.cfg
+2014.12.01 15:19:38 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parseProperties - Defaulting to majority quorums
+2014.12.01 15:19:38 org.apache.zookeeper.leolee.ZooKeeperServerTest-runFromConfig - Starting server
+2014.12.01 15:19:38 org.apache.zookeeper.Environment-logEnv - Server environment:zookeeper.version=3.4.6--1, built on 05/15/2014 07:37 GMT
+2014.12.01 15:19:38 org.apache.zookeeper.Environment-logEnv - Server environment:host.name=SERVER-103
+2014.12.01 15:19:38 org.apache.zookeeper.Environment-logEnv - Server environment:java.version=1.6.0_45
+2014.12.01 15:19:38 org.apache.zookeeper.Environment-logEnv - Server environment:java.vendor=Sun Microsystems Inc.
+2014.12.01 15:19:38 org.apache.zookeeper.Environment-logEnv - Server environment:java.home=C:\Program Files\Java\jre6
+2014.12.01 15:19:38 org.apache.zookeeper.Environment-logEnv - Server environment:java.class.path=C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-main;C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-test;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.6.1.jar;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-log4j12\jars\slf4j-log4j12-1.6.1.jar;C:\Users\Administrator\.ant\cache\log4j\log4j\bundles\log4j-1.2.16.jar;C:\Users\Administrator\.ant\cache\jline\jline\jars\jline-0.9.94.jar;C:\Users\Administrator\.ant\cache\io.netty\netty\jars\netty-3.7.0.Final.jar;C:\Users\Administrator\.ant\cache\junit\junit\jars\junit-4.8.1.jar;C:\Users\Administrator\.ant\cache\org.mockito\mockito-all\jars\mockito-all-1.8.2.jar;C:\Users\Administrator\.ant\cache\checkstyle\checkstyle\jars\checkstyle-5.0.jar
+2014.12.01 15:19:38 org.apache.zookeeper.Environment-logEnv - Server environment:java.library.path=C:\Program Files\Java\jre6\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:/Program Files/Java/jre6/lib/i386;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\TortoiseSVN\bin;C:\Program Files\apache-maven-3.1.0\bin;C:\Program Files\Java\jdk1.6.0_45\bin;C:\Program Files\TortoiseGit\bin;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\VisualSVN Server\bin;C:\Program Files\apache-ant-1.9.2\bin;C:\Program Files\erl6.1\bin;C:\Python27;C:\Program Files\GTK2-Runtime\bin;C:\FPC\2.6.4\bin\i386-Win32;.
+2014.12.01 15:19:38 org.apache.zookeeper.Environment-logEnv - Server environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\2\
+2014.12.01 15:19:38 org.apache.zookeeper.Environment-logEnv - Server environment:java.compiler=<NA>
+2014.12.01 15:19:38 org.apache.zookeeper.Environment-logEnv - Server environment:os.name=Windows Server 2008
+2014.12.01 15:19:38 org.apache.zookeeper.Environment-logEnv - Server environment:os.arch=x86
+2014.12.01 15:19:38 org.apache.zookeeper.Environment-logEnv - Server environment:os.version=6.0
+2014.12.01 15:19:38 org.apache.zookeeper.Environment-logEnv - Server environment:user.name=Administrator
+2014.12.01 15:19:38 org.apache.zookeeper.Environment-logEnv - Server environment:user.home=C:\Users\Administrator
+2014.12.01 15:19:38 org.apache.zookeeper.Environment-logEnv - Server environment:user.dir=C:\projects\stuying\zookeeper-3.4.6
+2014.12.01 15:19:38 org.apache.zookeeper.server.ZooKeeperServer-setTickTime - tickTime set to 2000
+2014.12.01 15:19:38 org.apache.zookeeper.server.ZooKeeperServer-setMinSessionTimeout - minSessionTimeout set to -1
+2014.12.01 15:19:38 org.apache.zookeeper.server.ZooKeeperServer-setMaxSessionTimeout - maxSessionTimeout set to -1
+2014.12.01 15:19:38 org.apache.zookeeper.server.NIOServerCnxnFactory-configure - binding to port 0.0.0.0/0.0.0.0:2182
+2014.12.01 15:19:50 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parse - Reading configuration from: C:\projects\stuying\zookeeper-3.4.6\conf\zoo_sample3.cfg
+2014.12.01 15:19:57 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parseProperties - Defaulting to majority quorums
+2014.12.01 15:19:57 org.apache.zookeeper.leolee.ZooKeeperServerTest-runFromConfig - Starting server
+2014.12.01 15:19:57 org.apache.zookeeper.Environment-logEnv - Server environment:zookeeper.version=3.4.6--1, built on 05/15/2014 07:37 GMT
+2014.12.01 15:19:57 org.apache.zookeeper.Environment-logEnv - Server environment:host.name=SERVER-103
+2014.12.01 15:19:57 org.apache.zookeeper.Environment-logEnv - Server environment:java.version=1.6.0_45
+2014.12.01 15:19:57 org.apache.zookeeper.Environment-logEnv - Server environment:java.vendor=Sun Microsystems Inc.
+2014.12.01 15:19:57 org.apache.zookeeper.Environment-logEnv - Server environment:java.home=C:\Program Files\Java\jre6
+2014.12.01 15:19:57 org.apache.zookeeper.Environment-logEnv - Server environment:java.class.path=C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-main;C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-test;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.6.1.jar;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-log4j12\jars\slf4j-log4j12-1.6.1.jar;C:\Users\Administrator\.ant\cache\log4j\log4j\bundles\log4j-1.2.16.jar;C:\Users\Administrator\.ant\cache\jline\jline\jars\jline-0.9.94.jar;C:\Users\Administrator\.ant\cache\io.netty\netty\jars\netty-3.7.0.Final.jar;C:\Users\Administrator\.ant\cache\junit\junit\jars\junit-4.8.1.jar;C:\Users\Administrator\.ant\cache\org.mockito\mockito-all\jars\mockito-all-1.8.2.jar;C:\Users\Administrator\.ant\cache\checkstyle\checkstyle\jars\checkstyle-5.0.jar
+2014.12.01 15:19:57 org.apache.zookeeper.Environment-logEnv - Server environment:java.library.path=C:\Program Files\Java\jre6\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:/Program Files/Java/jre6/lib/i386;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\TortoiseSVN\bin;C:\Program Files\apache-maven-3.1.0\bin;C:\Program Files\Java\jdk1.6.0_45\bin;C:\Program Files\TortoiseGit\bin;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\VisualSVN Server\bin;C:\Program Files\apache-ant-1.9.2\bin;C:\Program Files\erl6.1\bin;C:\Python27;C:\Program Files\GTK2-Runtime\bin;C:\FPC\2.6.4\bin\i386-Win32;.
+2014.12.01 15:19:57 org.apache.zookeeper.Environment-logEnv - Server environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\2\
+2014.12.01 15:19:57 org.apache.zookeeper.Environment-logEnv - Server environment:java.compiler=<NA>
+2014.12.01 15:19:57 org.apache.zookeeper.Environment-logEnv - Server environment:os.name=Windows Server 2008
+2014.12.01 15:19:57 org.apache.zookeeper.Environment-logEnv - Server environment:os.arch=x86
+2014.12.01 15:19:57 org.apache.zookeeper.Environment-logEnv - Server environment:os.version=6.0
+2014.12.01 15:19:57 org.apache.zookeeper.Environment-logEnv - Server environment:user.name=Administrator
+2014.12.01 15:19:57 org.apache.zookeeper.Environment-logEnv - Server environment:user.home=C:\Users\Administrator
+2014.12.01 15:19:57 org.apache.zookeeper.Environment-logEnv - Server environment:user.dir=C:\projects\stuying\zookeeper-3.4.6
+2014.12.01 15:19:57 org.apache.zookeeper.server.ZooKeeperServer-setTickTime - tickTime set to 2000
+2014.12.01 15:19:57 org.apache.zookeeper.server.ZooKeeperServer-setMinSessionTimeout - minSessionTimeout set to -1
+2014.12.01 15:19:57 org.apache.zookeeper.server.ZooKeeperServer-setMaxSessionTimeout - maxSessionTimeout set to -1
+2014.12.01 15:19:57 org.apache.zookeeper.server.NIOServerCnxnFactory-configure - binding to port 0.0.0.0/0.0.0.0:2183
+2014.12.01 15:59:04 org.apache.zookeeper.ZKTestCase$1-starting - STARTING testObserver
+2014.12.01 15:59:04 org.apache.zookeeper.JUnit4ZKTestRunner$LoggedInvokeMethod-evaluate - RUNNING TEST METHOD testObserver
+2014.12.01 15:59:04 org.apache.zookeeper.PortAssignment-unique - assigning port 11221
+2014.12.01 15:59:04 org.apache.zookeeper.PortAssignment-unique - assigning port 11222
+2014.12.01 15:59:04 org.apache.zookeeper.PortAssignment-unique - assigning port 11223
+2014.12.01 15:59:04 org.apache.zookeeper.PortAssignment-unique - assigning port 11224
+2014.12.01 15:59:04 org.apache.zookeeper.PortAssignment-unique - assigning port 11225
+2014.12.01 15:59:04 org.apache.zookeeper.PortAssignment-unique - assigning port 11226
+2014.12.01 15:59:04 org.apache.zookeeper.PortAssignment-unique - assigning port 11227
+2014.12.01 15:59:04 org.apache.zookeeper.PortAssignment-unique - assigning port 11228
+2014.12.01 15:59:04 org.apache.zookeeper.PortAssignment-unique - assigning port 11229
+2014.12.01 15:59:04 org.apache.zookeeper.server.quorum.QuorumPeerTestBase$MainThread-<init> - id = 1 tmpDir = build\test3716621184478016264.junit.dir clientPort = 11227
+2014.12.01 15:59:04 org.apache.zookeeper.server.quorum.QuorumPeerTestBase$MainThread-<init> - id = 2 tmpDir = build\test222418090569597992.junit.dir clientPort = 11228
+2014.12.01 15:59:04 org.apache.zookeeper.server.quorum.QuorumPeerTestBase$MainThread-<init> - id = 3 tmpDir = build\test5371398397880781982.junit.dir clientPort = 11229
+2014.12.01 15:59:04 org.apache.zookeeper.client.FourLetterWordMain-send4LetterWord - connecting to 127.0.0.1 11227
+2014.12.01 15:59:04 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parse - Reading configuration from: build\test5371398397880781982.junit.dir\zoo.cfg
+2014.12.01 15:59:04 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parse - Reading configuration from: build\test222418090569597992.junit.dir\zoo.cfg
+2014.12.01 15:59:04 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parse - Reading configuration from: build\test3716621184478016264.junit.dir\zoo.cfg
+2014.12.01 15:59:04 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parseProperties - Defaulting to majority quorums
+2014.12.01 15:59:04 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parseProperties - Defaulting to majority quorums
+2014.12.01 15:59:04 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parseProperties - Defaulting to majority quorums
+2014.12.01 15:59:04 org.apache.zookeeper.server.DatadirCleanupManager-<init> - autopurge.snapRetainCount set to 3
+2014.12.01 15:59:04 org.apache.zookeeper.server.DatadirCleanupManager-<init> - autopurge.purgeInterval set to 0
+2014.12.01 15:59:04 org.apache.zookeeper.server.DatadirCleanupManager-<init> - autopurge.snapRetainCount set to 3
+2014.12.01 15:59:05 org.apache.zookeeper.server.DatadirCleanupManager-<init> - autopurge.purgeInterval set to 0
+2014.12.01 15:59:05 org.apache.zookeeper.server.DatadirCleanupManager-start - Purge task is not scheduled.
+2014.12.01 15:59:04 org.apache.zookeeper.server.DatadirCleanupManager-<init> - autopurge.snapRetainCount set to 3
+2014.12.01 15:59:05 org.apache.zookeeper.server.DatadirCleanupManager-<init> - autopurge.purgeInterval set to 0
+2014.12.01 15:59:05 org.apache.zookeeper.server.DatadirCleanupManager-start - Purge task is not scheduled.
+2014.12.01 15:59:04 org.apache.zookeeper.server.DatadirCleanupManager-start - Purge task is not scheduled.
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumPeerMain-runFromConfig - Starting quorum peer
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumPeerMain-runFromConfig - Starting quorum peer
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumPeerMain-runFromConfig - Starting quorum peer
+2014.12.01 15:59:05 org.apache.zookeeper.server.NIOServerCnxnFactory-configure - binding to port 0.0.0.0/0.0.0.0:11228
+2014.12.01 15:59:05 org.apache.zookeeper.server.NIOServerCnxnFactory-configure - binding to port 0.0.0.0/0.0.0.0:11229
+2014.12.01 15:59:05 org.apache.zookeeper.server.NIOServerCnxnFactory-configure - binding to port 0.0.0.0/0.0.0.0:11227
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumPeer-setTickTime - tickTime set to 4000
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumPeer-setMinSessionTimeout - minSessionTimeout set to -1
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumPeer-setTickTime - tickTime set to 4000
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumPeer-setMinSessionTimeout - minSessionTimeout set to -1
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumPeer-setMaxSessionTimeout - maxSessionTimeout set to -1
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumPeer-setTickTime - tickTime set to 4000
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumPeer-setMinSessionTimeout - minSessionTimeout set to -1
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumPeer-setMaxSessionTimeout - maxSessionTimeout set to -1
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumPeer-setInitLimit - initLimit set to 10
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumPeer-setInitLimit - initLimit set to 10
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumPeer-setMaxSessionTimeout - maxSessionTimeout set to -1
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumPeer-setInitLimit - initLimit set to 10
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumPeer-loadDataBase - currentEpoch not found! Creating with a reasonable default of 0. This should only happen when you are upgrading your installation
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumPeer-loadDataBase - currentEpoch not found! Creating with a reasonable default of 0. This should only happen when you are upgrading your installation
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumPeer-loadDataBase - currentEpoch not found! Creating with a reasonable default of 0. This should only happen when you are upgrading your installation
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumPeer-loadDataBase - acceptedEpoch not found! Creating with a reasonable default of 0. This should only happen when you are upgrading your installation
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumPeer-loadDataBase - acceptedEpoch not found! Creating with a reasonable default of 0. This should only happen when you are upgrading your installation
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumPeer-loadDataBase - acceptedEpoch not found! Creating with a reasonable default of 0. This should only happen when you are upgrading your installation
+2014.12.01 15:59:05 org.apache.zookeeper.server.NIOServerCnxnFactory-run - Accepted socket connection from /127.0.0.1:52009
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumCnxManager$Listener-run - My election bind port: /127.0.0.1:11224
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumCnxManager$Listener-run - My election bind port: /127.0.0.1:11226
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumCnxManager$Listener-run - My election bind port: /127.0.0.1:11225
+2014.12.01 15:59:05 org.apache.zookeeper.server.NIOServerCnxn-checkFourLetterWord - Processing stat command from /127.0.0.1:52009
+2014.12.01 15:59:05 org.apache.zookeeper.server.NIOServerCnxn-closeSock - Closed socket connection for client /127.0.0.1:52009 (no session established for client)
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumPeer-run - LOOKING
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumPeer-run - LOOKING
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumPeer-run - LOOKING
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.FastLeaderElection-lookForLeader - New election. My id =  3, proposed zxid=0x8000000000000000
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.FastLeaderElection-lookForLeader - New election. My id =  1, proposed zxid=0x0
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.FastLeaderElection-lookForLeader - New election. My id =  2, proposed zxid=0x0
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumCnxManager$Listener-run - Received connection request /127.0.0.1:52019
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumCnxManager$Listener-run - Received connection request /127.0.0.1:52020
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.FastLeaderElection-printNotification - Notification: 1 (message format version), 1 (n.leader), 0x0 (n.zxid), 0x1 (n.round), LOOKING (n.state), 1 (n.sid), 0x0 (n.peerEpoch) LOOKING (my state)
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumCnxManager-initiateConnection - Have smaller server identifier, so dropping the connection: (2, 1)
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumCnxManager$Listener-run - Received connection request /127.0.0.1:52018
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.FastLeaderElection-printNotification - Notification: 1 (message format version), 2 (n.leader), 0x0 (n.zxid), 0x1 (n.round), LOOKING (n.state), 2 (n.sid), 0x0 (n.peerEpoch) LOOKING (my state)
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.FastLeaderElection-printNotification - Notification: 1 (message format version), 2 (n.leader), 0x0 (n.zxid), 0x1 (n.round), LOOKING (n.state), 2 (n.sid), 0x0 (n.peerEpoch) LOOKING (my state)
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.FastLeaderElection-printNotification - Notification: 1 (message format version), 2 (n.leader), 0x0 (n.zxid), 0x1 (n.round), LOOKING (n.state), 1 (n.sid), 0x0 (n.peerEpoch) LOOKING (my state)
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.QuorumCnxManager$Listener-run - Received connection request /127.0.0.1:52021
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.FastLeaderElection-printNotification - Notification: 1 (message format version), 1 (n.leader), 0x0 (n.zxid), 0x1 (n.round), LOOKING (n.state), 1 (n.sid), 0x0 (n.peerEpoch) LOOKING (my state)
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.FastLeaderElection-printNotification - Notification: 1 (message format version), 2 (n.leader), 0x0 (n.zxid), 0x1 (n.round), LOOKING (n.state), 1 (n.sid), 0x0 (n.peerEpoch) LOOKING (my state)
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.FastLeaderElection-printNotification - Notification: 1 (message format version), 1 (n.leader), 0x0 (n.zxid), 0x1 (n.round), LOOKING (n.state), 1 (n.sid), 0x0 (n.peerEpoch) LOOKING (my state)
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.FastLeaderElection-printNotification - Notification: 1 (message format version), 2 (n.leader), 0x0 (n.zxid), 0x1 (n.round), LOOKING (n.state), 2 (n.sid), 0x0 (n.peerEpoch) LOOKING (my state)
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.FastLeaderElection-printNotification - Notification: 1 (message format version), 2 (n.leader), 0x0 (n.zxid), 0x1 (n.round), LOOKING (n.state), 2 (n.sid), 0x0 (n.peerEpoch) LOOKING (my state)
+2014.12.01 15:59:05 org.apache.zookeeper.server.quorum.FastLeaderElection-printNotification - Notification: 1 (message format version), 1 (n.leader), 0x0 (n.zxid), 0x1 (n.round), LOOKING (n.state), 1 (n.sid), 0x0 (n.peerEpoch) LOOKING (my state)
+2014.12.01 15:59:05 org.apache.zookeeper.client.FourLetterWordMain-send4LetterWord - connecting to 127.0.0.1 11227
+2014.12.01 15:59:05 org.apache.zookeeper.server.NIOServerCnxnFactory-run - Accepted socket connection from /127.0.0.1:52022
+2014.12.01 15:59:05 org.apache.zookeeper.server.NIOServerCnxn-checkFourLetterWord - Processing stat command from /127.0.0.1:52022
+2014.12.01 15:59:05 org.apache.zookeeper.server.NIOServerCnxn-closeSock - Closed socket connection for client /127.0.0.1:52022 (no session established for client)
+2014.12.01 15:59:06 org.apache.zookeeper.server.quorum.QuorumPeer-run - FOLLOWING
+2014.12.01 15:59:06 org.apache.zookeeper.server.quorum.QuorumPeer-run - LEADING
+2014.12.01 15:59:06 org.apache.zookeeper.server.quorum.FastLeaderElection-lookForLeader - Notification time out: 400
+2014.12.01 15:59:06 org.apache.zookeeper.server.quorum.FastLeaderElection-printNotification - Notification: 1 (message format version), 2 (n.leader), 0x0 (n.zxid), 0x1 (n.round), FOLLOWING (n.state), 1 (n.sid), 0x0 (n.peerEpoch) LOOKING (my state)
+2014.12.01 15:59:06 org.apache.zookeeper.server.quorum.FastLeaderElection-printNotification - Notification: 1 (message format version), 2 (n.leader), 0x0 (n.zxid), 0x1 (n.round), LEADING (n.state), 2 (n.sid), 0x0 (n.peerEpoch) LOOKING (my state)
+2014.12.01 15:59:06 org.apache.zookeeper.server.quorum.QuorumPeer-run - OBSERVING
+2014.12.01 15:59:06 org.apache.zookeeper.client.FourLetterWordMain-send4LetterWord - connecting to 127.0.0.1 11227
+2014.12.01 15:59:06 org.apache.zookeeper.server.NIOServerCnxnFactory-run - Accepted socket connection from /127.0.0.1:52023
+2014.12.01 15:59:06 org.apache.zookeeper.server.NIOServerCnxn-checkFourLetterWord - Processing stat command from /127.0.0.1:52023
+2014.12.01 15:59:06 org.apache.zookeeper.server.NIOServerCnxn-closeSock - Closed socket connection for client /127.0.0.1:52023 (no session established for client)
+2014.12.01 15:59:06 org.apache.zookeeper.server.quorum.Learner-<clinit> - TCP NoDelay set to: true
+2014.12.01 15:59:06 org.apache.zookeeper.server.quorum.Leader-<clinit> - TCP NoDelay set to: true
+2014.12.01 15:59:06 org.apache.zookeeper.Environment-logEnv - Server environment:zookeeper.version=3.4.6--1, built on 05/15/2014 07:37 GMT
+2014.12.01 15:59:06 org.apache.zookeeper.Environment-logEnv - Server environment:host.name=SERVER-103
+2014.12.01 15:59:06 org.apache.zookeeper.Environment-logEnv - Server environment:java.version=1.6.0_45
+2014.12.01 15:59:06 org.apache.zookeeper.Environment-logEnv - Server environment:java.vendor=Sun Microsystems Inc.
+2014.12.01 15:59:06 org.apache.zookeeper.Environment-logEnv - Server environment:java.home=C:\Program Files\Java\jre6
+2014.12.01 15:59:06 org.apache.zookeeper.Environment-logEnv - Server environment:java.class.path=C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-main;C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-test;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.6.1.jar;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-log4j12\jars\slf4j-log4j12-1.6.1.jar;C:\Users\Administrator\.ant\cache\log4j\log4j\bundles\log4j-1.2.16.jar;C:\Users\Administrator\.ant\cache\jline\jline\jars\jline-0.9.94.jar;C:\Users\Administrator\.ant\cache\io.netty\netty\jars\netty-3.7.0.Final.jar;C:\Users\Administrator\.ant\cache\junit\junit\jars\junit-4.8.1.jar;C:\Users\Administrator\.ant\cache\org.mockito\mockito-all\jars\mockito-all-1.8.2.jar;C:\Users\Administrator\.ant\cache\checkstyle\checkstyle\jars\checkstyle-5.0.jar;/C:/workspace/oepe-helios-all-in-one-11.1.1.6.1.201010012100-win32/configuration/org.eclipse.osgi/bundles/384/1/.cp/;/C:/workspace/oepe-helios-all-in-one-11.1.1.6.1.201010012100-win32/configuration/org.eclipse.osgi/bundles/382/1/.cp/;/C:/workspace/oepe-helios-all-in-one-11.1.1.6.1.201010012100-win32/configuration/org.eclipse.osgi/bundles/383/1/.cp/
+2014.12.01 15:59:06 org.apache.zookeeper.Environment-logEnv - Server environment:java.library.path=C:\Program Files\Java\jre6\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:/Program Files/Java/jre6/lib/i386;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\TortoiseSVN\bin;C:\Program Files\apache-maven-3.1.0\bin;C:\Program Files\Java\jdk1.6.0_45\bin;C:\Program Files\TortoiseGit\bin;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\VisualSVN Server\bin;C:\Program Files\apache-ant-1.9.2\bin;C:\Program Files\erl6.1\bin;C:\Python27;C:\Program Files\GTK2-Runtime\bin;C:\FPC\2.6.4\bin\i386-Win32;.
+2014.12.01 15:59:06 org.apache.zookeeper.Environment-logEnv - Server environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\2\
+2014.12.01 15:59:06 org.apache.zookeeper.Environment-logEnv - Server environment:java.compiler=<NA>
+2014.12.01 15:59:06 org.apache.zookeeper.Environment-logEnv - Server environment:os.name=Windows Server 2008
+2014.12.01 15:59:06 org.apache.zookeeper.Environment-logEnv - Server environment:os.arch=x86
+2014.12.01 15:59:06 org.apache.zookeeper.Environment-logEnv - Server environment:os.version=6.0
+2014.12.01 15:59:06 org.apache.zookeeper.Environment-logEnv - Server environment:user.name=Administrator
+2014.12.01 15:59:06 org.apache.zookeeper.Environment-logEnv - Server environment:user.home=C:\Users\Administrator
+2014.12.01 15:59:06 org.apache.zookeeper.Environment-logEnv - Server environment:user.dir=C:\projects\stuying\zookeeper-3.4.6
+2014.12.01 15:59:06 org.apache.zookeeper.server.ZooKeeperServer-<init> - Created server with tickTime 4000 minSessionTimeout 8000 maxSessionTimeout 80000 datadir build\test3716621184478016264.junit.dir\data\version-2 snapdir build\test3716621184478016264.junit.dir\data\version-2
+2014.12.01 15:59:06 org.apache.zookeeper.server.ZooKeeperServer-<init> - Created server with tickTime 4000 minSessionTimeout 8000 maxSessionTimeout 80000 datadir build\test5371398397880781982.junit.dir\data\version-2 snapdir build\test5371398397880781982.junit.dir\data\version-2
+2014.12.01 15:59:06 org.apache.zookeeper.server.ZooKeeperServer-<init> - Created server with tickTime 4000 minSessionTimeout 8000 maxSessionTimeout 80000 datadir build\test222418090569597992.junit.dir\data\version-2 snapdir build\test222418090569597992.junit.dir\data\version-2
+2014.12.01 15:59:06 org.apache.zookeeper.server.quorum.ObserverZooKeeperServer-<init> - syncEnabled =true
+2014.12.01 15:59:06 org.apache.zookeeper.server.quorum.Follower-followLeader - FOLLOWING - LEADER ELECTION TOOK - 517
+2014.12.01 15:59:06 org.apache.zookeeper.server.quorum.Leader-lead - LEADING - LEADER ELECTION TOOK - 517
+2014.12.01 15:59:06 org.apache.zookeeper.server.quorum.Observer-observeLeader - Observing /127.0.0.1:11222
+2014.12.01 15:59:06 org.apache.zookeeper.server.quorum.LearnerHandler-run - Follower sid: 3 : info : org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@14384c2
+2014.12.01 15:59:06 org.apache.zookeeper.server.quorum.LearnerHandler-run - Follower sid: 1 : info : org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@1c0ec97
+2014.12.01 15:59:06 org.apache.zookeeper.server.quorum.LearnerHandler-run - Synchronizing with Follower sid: 1 maxCommittedLog=0x0 minCommittedLog=0x0 peerLastZxid=0x0
+2014.12.01 15:59:06 org.apache.zookeeper.server.quorum.LearnerHandler-run - Sending DIFF
+2014.12.01 15:59:06 org.apache.zookeeper.server.quorum.Learner-syncWithLeader - Getting a diff from the leader 0x0
+2014.12.01 15:59:06 org.apache.zookeeper.client.FourLetterWordMain-send4LetterWord - connecting to 127.0.0.1 11227
+2014.12.01 15:59:06 org.apache.zookeeper.server.NIOServerCnxnFactory-run - Accepted socket connection from /127.0.0.1:52026
+2014.12.01 15:59:06 org.apache.zookeeper.server.NIOServerCnxn-checkFourLetterWord - Processing stat command from /127.0.0.1:52026
+2014.12.01 15:59:06 org.apache.zookeeper.server.NIOServerCnxn-closeSock - Closed socket connection for client /127.0.0.1:52026 (no session established for client)
+2014.12.01 15:59:06 org.apache.zookeeper.server.quorum.LearnerHandler-run - Synchronizing with Follower sid: 3 maxCommittedLog=0x0 minCommittedLog=0x0 peerLastZxid=0x0
+2014.12.01 15:59:06 org.apache.zookeeper.server.quorum.LearnerHandler-run - Sending DIFF
+2014.12.01 15:59:06 org.apache.zookeeper.server.quorum.Learner-syncWithLeader - Getting a diff from the leader 0x0
+2014.12.01 15:59:06 org.apache.zookeeper.server.persistence.FileTxnSnapLog-save - Snapshotting: 0x0 to build\test3716621184478016264.junit.dir\data\version-2\snapshot.0
+2014.12.01 15:59:06 org.apache.zookeeper.server.persistence.FileTxnSnapLog-save - Snapshotting: 0x0 to build\test5371398397880781982.junit.dir\data\version-2\snapshot.0
+2014.12.01 15:59:06 org.apache.zookeeper.server.quorum.LearnerHandler-run - Received NEWLEADER-ACK message from 1
+2014.12.01 15:59:06 org.apache.zookeeper.server.quorum.LearnerHandler-run - Received NEWLEADER-ACK message from 3
+2014.12.01 15:59:06 org.apache.zookeeper.server.quorum.Leader-startZkServer - Have quorum of supporters, sids: [ 1,2 ]; starting up and setting last processed zxid: 0x100000000
+2014.12.01 15:59:06 org.apache.zookeeper.client.FourLetterWordMain-send4LetterWord - connecting to 127.0.0.1 11227
+2014.12.01 15:59:06 org.apache.zookeeper.server.NIOServerCnxnFactory-run - Accepted socket connection from /127.0.0.1:52027
+2014.12.01 15:59:06 org.apache.zookeeper.server.NIOServerCnxn-checkFourLetterWord - Processing stat command from /127.0.0.1:52027
+2014.12.01 15:59:06 org.apache.zookeeper.server.NIOServerCnxn$StatCommand-commandRun - Stat command output
+2014.12.01 15:59:06 org.apache.zookeeper.server.NIOServerCnxn-closeSock - Closed socket connection for client /127.0.0.1:52027 (no session established for client)
+2014.12.01 15:59:06 org.apache.zookeeper.client.FourLetterWordMain-send4LetterWord - connecting to 127.0.0.1 11228
+2014.12.01 15:59:06 org.apache.zookeeper.server.NIOServerCnxnFactory-run - Accepted socket connection from /127.0.0.1:52028
+2014.12.01 15:59:06 org.apache.zookeeper.server.NIOServerCnxn-checkFourLetterWord - Processing stat command from /127.0.0.1:52028
+2014.12.01 15:59:06 org.apache.zookeeper.server.NIOServerCnxn$StatCommand-commandRun - Stat command output
+2014.12.01 15:59:06 org.apache.zookeeper.server.NIOServerCnxn-closeSock - Closed socket connection for client /127.0.0.1:52028 (no session established for client)
+2014.12.01 15:59:06 org.apache.zookeeper.client.FourLetterWordMain-send4LetterWord - connecting to 127.0.0.1 11229
+2014.12.01 15:59:06 org.apache.zookeeper.server.NIOServerCnxnFactory-run - Accepted socket connection from /127.0.0.1:52029
+2014.12.01 15:59:06 org.apache.zookeeper.server.NIOServerCnxn-checkFourLetterWord - Processing stat command from /127.0.0.1:52029
+2014.12.01 15:59:06 org.apache.zookeeper.server.NIOServerCnxn$StatCommand-commandRun - Stat command output
+2014.12.01 15:59:06 org.apache.zookeeper.server.NIOServerCnxn-closeSock - Closed socket connection for client /127.0.0.1:52029 (no session established for client)
+2014.12.01 15:59:06 org.apache.zookeeper.Environment-logEnv - Client environment:zookeeper.version=3.4.6--1, built on 05/15/2014 07:37 GMT
+2014.12.01 15:59:06 org.apache.zookeeper.Environment-logEnv - Client environment:host.name=SERVER-103
+2014.12.01 15:59:06 org.apache.zookeeper.Environment-logEnv - Client environment:java.version=1.6.0_45
+2014.12.01 15:59:06 org.apache.zookeeper.Environment-logEnv - Client environment:java.vendor=Sun Microsystems Inc.
+2014.12.01 15:59:06 org.apache.zookeeper.Environment-logEnv - Client environment:java.home=C:\Program Files\Java\jre6
+2014.12.01 15:59:06 org.apache.zookeeper.Environment-logEnv - Client environment:java.class.path=C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-main;C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-test;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.6.1.jar;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-log4j12\jars\slf4j-log4j12-1.6.1.jar;C:\Users\Administrator\.ant\cache\log4j\log4j\bundles\log4j-1.2.16.jar;C:\Users\Administrator\.ant\cache\jline\jline\jars\jline-0.9.94.jar;C:\Users\Administrator\.ant\cache\io.netty\netty\jars\netty-3.7.0.Final.jar;C:\Users\Administrator\.ant\cache\junit\junit\jars\junit-4.8.1.jar;C:\Users\Administrator\.ant\cache\org.mockito\mockito-all\jars\mockito-all-1.8.2.jar;C:\Users\Administrator\.ant\cache\checkstyle\checkstyle\jars\checkstyle-5.0.jar;/C:/workspace/oepe-helios-all-in-one-11.1.1.6.1.201010012100-win32/configuration/org.eclipse.osgi/bundles/384/1/.cp/;/C:/workspace/oepe-helios-all-in-one-11.1.1.6.1.201010012100-win32/configuration/org.eclipse.osgi/bundles/382/1/.cp/;/C:/workspace/oepe-helios-all-in-one-11.1.1.6.1.201010012100-win32/configuration/org.eclipse.osgi/bundles/383/1/.cp/
+2014.12.01 15:59:06 org.apache.zookeeper.Environment-logEnv - Client environment:java.library.path=C:\Program Files\Java\jre6\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:/Program Files/Java/jre6/lib/i386;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\TortoiseSVN\bin;C:\Program Files\apache-maven-3.1.0\bin;C:\Program Files\Java\jdk1.6.0_45\bin;C:\Program Files\TortoiseGit\bin;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\VisualSVN Server\bin;C:\Program Files\apache-ant-1.9.2\bin;C:\Program Files\erl6.1\bin;C:\Python27;C:\Program Files\GTK2-Runtime\bin;C:\FPC\2.6.4\bin\i386-Win32;.
+2014.12.01 15:59:06 org.apache.zookeeper.Environment-logEnv - Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\2\
+2014.12.01 15:59:06 org.apache.zookeeper.Environment-logEnv - Client environment:java.compiler=<NA>
+2014.12.01 15:59:06 org.apache.zookeeper.Environment-logEnv - Client environment:os.name=Windows Server 2008
+2014.12.01 15:59:06 org.apache.zookeeper.Environment-logEnv - Client environment:os.arch=x86
+2014.12.01 15:59:06 org.apache.zookeeper.Environment-logEnv - Client environment:os.version=6.0
+2014.12.01 15:59:06 org.apache.zookeeper.Environment-logEnv - Client environment:user.name=Administrator
+2014.12.01 15:59:06 org.apache.zookeeper.Environment-logEnv - Client environment:user.home=C:\Users\Administrator
+2014.12.01 15:59:06 org.apache.zookeeper.Environment-logEnv - Client environment:user.dir=C:\projects\stuying\zookeeper-3.4.6
+2014.12.01 15:59:06 org.apache.zookeeper.ZooKeeper-<init> - Initiating client connection, connectString=127.0.0.1:11229 sessionTimeout=30000 watcher=org.apache.zookeeper.test.ObserverTest@7f4ec
+2014.12.01 15:59:06 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:11229. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.12.01 15:59:06 org.apache.zookeeper.ClientCnxn$SendThread-primeConnection - Socket connection established to 127.0.0.1/127.0.0.1:11229, initiating session
+2014.12.01 15:59:06 org.apache.zookeeper.server.NIOServerCnxnFactory-run - Accepted socket connection from /127.0.0.1:52032
+2014.12.01 15:59:06 org.apache.zookeeper.server.ZooKeeperServer-processConnectRequest - Client attempting to establish new session at /127.0.0.1:52032
+2014.12.01 15:59:06 org.apache.zookeeper.server.persistence.FileTxnLog-append - Creating new log file: log.100000001
+2014.12.01 15:59:06 org.apache.zookeeper.server.persistence.FileTxnLog-append - Creating new log file: log.100000001
+2014.12.01 15:59:06 org.apache.zookeeper.server.persistence.FileTxnLog-append - Creating new log file: log.100000001
+2014.12.01 15:59:06 org.apache.zookeeper.server.ZooKeeperServer-finishSessionInit - Established session 0x34a04dc2ed00000 with negotiated timeout 30000 for client /127.0.0.1:52032
+2014.12.01 15:59:06 org.apache.zookeeper.ClientCnxn$SendThread-onConnected - Session establishment complete on server 127.0.0.1/127.0.0.1:11229, sessionid = 0x34a04dc2ed00000, negotiated timeout = 30000
+2014.12.01 15:59:06 org.apache.zookeeper.test.ObserverTest-process - Latch got event :: WatchedEvent state:SyncConnected type:None path:null
+2014.12.01 15:59:07 org.apache.zookeeper.test.ObserverTest-testObserver - Shutting down server 2
+2014.12.01 15:59:07 org.apache.zookeeper.test.QuorumBase-shutdown - Shutting down quorum peer QuorumPeer[myid=2]/0.0.0.0:11228
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.Leader-shutdown - Shutting down
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.Leader-shutdown - Shutdown called
+java.lang.Exception: shutdown Leader! reason: quorum Peer shutdown
+	at org.apache.zookeeper.server.quorum.Leader.shutdown(Leader.java:500)
+	at org.apache.zookeeper.server.quorum.QuorumPeer.shutdown(QuorumPeer.java:828)
+	at org.apache.zookeeper.test.QuorumBase.shutdown(QuorumBase.java:317)
+	at org.apache.zookeeper.server.quorum.QuorumPeerTestBase$TestQPMain.shutdown(QuorumPeerTestBase.java:53)
+	at org.apache.zookeeper.server.quorum.QuorumPeerTestBase$MainThread.shutdown(QuorumPeerTestBase.java:128)
+	at org.apache.zookeeper.test.ObserverTest.testObserver(ObserverTest.java:116)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.apache.zookeeper.JUnit4ZKTestRunner$LoggedInvokeMethod.evaluate(JUnit4ZKTestRunner.java:52)
+	at org.junit.rules.TestWatchman$1.evaluate(TestWatchman.java:48)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:76)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:49)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+2014.12.01 15:59:07 org.apache.zookeeper.server.ZooKeeperServer-shutdown - shutting down
+2014.12.01 15:59:07 org.apache.zookeeper.server.SessionTrackerImpl-shutdown - Shutting down
+2014.12.01 15:59:07 org.apache.zookeeper.server.PrepRequestProcessor-shutdown - Shutting down
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.Leader$LearnerCnxAcceptor-run - exception while shutting down acceptor: java.net.SocketException: socket closed
+2014.12.01 15:59:07 org.apache.zookeeper.server.PrepRequestProcessor-run - PrepRequestProcessor exited loop!
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.ProposalRequestProcessor-shutdown - Shutting down
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.CommitProcessor-shutdown - Shutting down
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.Leader$ToBeAppliedRequestProcessor-shutdown - Shutting down
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.CommitProcessor-run - CommitProcessor exited loop!
+2014.12.01 15:59:07 org.apache.zookeeper.server.FinalRequestProcessor-shutdown - shutdown of request processor complete
+2014.12.01 15:59:07 org.apache.zookeeper.server.SyncRequestProcessor-shutdown - Shutting down
+2014.12.01 15:59:07 org.apache.zookeeper.server.SyncRequestProcessor-run - SyncRequestProcessor exited!
+2014.12.01 15:59:07 org.apache.zookeeper.server.NIOServerCnxnFactory-run - NIOServerCnxn factory exited run method
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.Observer-shutdown - shutdown called
+java.lang.Exception: shutdown Observer
+	at org.apache.zookeeper.server.quorum.Observer.shutdown(Observer.java:137)
+	at org.apache.zookeeper.server.quorum.QuorumPeer.run(QuorumPeer.java:777)
+2014.12.01 15:59:07 org.apache.zookeeper.server.NIOServerCnxn-closeSock - Closed socket connection for client /127.0.0.1:52032 which had sessionid 0x34a04dc2ed00000
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.Follower-shutdown - shutdown called
+java.lang.Exception: shutdown Follower
+	at org.apache.zookeeper.server.quorum.Follower.shutdown(Follower.java:166)
+	at org.apache.zookeeper.server.quorum.QuorumPeer.run(QuorumPeer.java:790)
+2014.12.01 15:59:07 org.apache.zookeeper.ClientCnxn$SendThread-run - Unable to read additional data from server sessionid 0x34a04dc2ed00000, likely server has closed socket, closing socket connection and attempting reconnect
+2014.12.01 15:59:07 org.apache.zookeeper.server.ZooKeeperServer-shutdown - shutting down
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.ObserverRequestProcessor-shutdown - Shutting down
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.Leader-shutdown - Shutting down
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.ObserverRequestProcessor-run - ObserverRequestProcessor exited loop!
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.CommitProcessor-shutdown - Shutting down
+2014.12.01 15:59:07 org.apache.zookeeper.server.FinalRequestProcessor-shutdown - shutdown of request processor complete
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.FollowerZooKeeperServer-shutdown - Shutting down
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.CommitProcessor-run - CommitProcessor exited loop!
+2014.12.01 15:59:07 org.apache.zookeeper.server.SyncRequestProcessor-shutdown - Shutting down
+2014.12.01 15:59:07 org.apache.zookeeper.test.QuorumBase-shutdown - Shutting down leader election QuorumPeer[myid=2]/0.0.0.0:11228
+2014.12.01 15:59:07 org.apache.zookeeper.server.ZooKeeperServer-shutdown - shutting down
+2014.12.01 15:59:07 org.apache.zookeeper.test.QuorumBase-shutdown - Waiting for QuorumPeer[myid=2]/0.0.0.0:11228 to exit thread
+2014.12.01 15:59:07 org.apache.zookeeper.server.SyncRequestProcessor-run - SyncRequestProcessor exited!
+2014.12.01 15:59:07 org.apache.zookeeper.client.FourLetterWordMain-send4LetterWord - connecting to 127.0.0.1 11228
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.FollowerRequestProcessor-shutdown - Shutting down
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.CommitProcessor-shutdown - Shutting down
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.FollowerRequestProcessor-run - FollowerRequestProcessor exited loop!
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.QuorumPeer-run - LOOKING
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.CommitProcessor-run - CommitProcessor exited loop!
+2014.12.01 15:59:07 org.apache.zookeeper.server.FinalRequestProcessor-shutdown - shutdown of request processor complete
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.FastLeaderElection-lookForLeader - New election. My id =  3, proposed zxid=0x8000000000000000
+2014.12.01 15:59:07 org.apache.zookeeper.server.SyncRequestProcessor-shutdown - Shutting down
+2014.12.01 15:59:07 org.apache.zookeeper.server.SyncRequestProcessor-run - SyncRequestProcessor exited!
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.QuorumPeer-run - LOOKING
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.FastLeaderElection-printNotification - Notification: 1 (message format version), 2 (n.leader), 0x0 (n.zxid), 0x1 (n.round), LOOKING (n.state), 1 (n.sid), 0x1 (n.peerEpoch) LOOKING (my state)
+2014.12.01 15:59:07 org.apache.zookeeper.server.persistence.FileSnap-deserialize - Reading snapshot build\test3716621184478016264.junit.dir\data\version-2\snapshot.0
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.FastLeaderElection-lookForLeader - New election. My id =  1, proposed zxid=0x100000003
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.FastLeaderElection-printNotification - Notification: 1 (message format version), 1 (n.leader), 0x100000003 (n.zxid), 0x2 (n.round), LOOKING (n.state), 1 (n.sid), 0x1 (n.peerEpoch) LOOKING (my state)
+2014.12.01 15:59:07 org.apache.zookeeper.test.ObserverTest-process - Latch got event :: WatchedEvent state:Disconnected type:None path:null
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.FastLeaderElection-lookForLeader - Notification time out: 400
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.FastLeaderElection-lookForLeader - Notification time out: 400
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.FastLeaderElection-lookForLeader - Notification time out: 800
+2014.12.01 15:59:07 org.apache.zookeeper.server.quorum.FastLeaderElection-lookForLeader - Notification time out: 800
+2014.12.01 15:59:08 org.apache.zookeeper.server.SessionTrackerImpl-run - SessionTrackerImpl exited loop!
+2014.12.01 15:59:08 org.apache.zookeeper.test.ObserverTest-testObserver - Server 2 down
+2014.12.01 15:59:08 org.apache.zookeeper.test.ObserverTest-testObserver - Latch returned
+2014.12.01 15:59:08 org.apache.zookeeper.server.quorum.QuorumCnxManager$Listener-run - Leaving listener
+2014.12.01 15:59:08 org.apache.zookeeper.server.quorum.FastLeaderElection-printNotification - Notification: 1 (message format version), 1 (n.leader), 0x100000003 (n.zxid), 0x2 (n.round), LOOKING (n.state), 1 (n.sid), 0x1 (n.peerEpoch) LOOKING (my state)
+2014.12.01 15:59:08 org.apache.zookeeper.server.quorum.FastLeaderElection-lookForLeader - Notification time out: 1600
+2014.12.01 15:59:08 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:11229. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.12.01 15:59:08 org.apache.zookeeper.ClientCnxn$SendThread-primeConnection - Socket connection established to 127.0.0.1/127.0.0.1:11229, initiating session
+2014.12.01 15:59:08 org.apache.zookeeper.server.NIOServerCnxnFactory-run - Accepted socket connection from /127.0.0.1:52038
+2014.12.01 15:59:08 org.apache.zookeeper.server.NIOServerCnxn-closeSock - Closed socket connection for client /127.0.0.1:52038 (no session established for client)
+2014.12.01 15:59:08 org.apache.zookeeper.ClientCnxn$SendThread-run - Unable to read additional data from server sessionid 0x34a04dc2ed00000, likely server has closed socket, closing socket connection and attempting reconnect
+2014.12.01 15:59:08 org.apache.zookeeper.test.ObserverTest-testObserver - Connection loss exception caught - ensemble not quorate (this is expected)
+2014.12.01 15:59:08 org.apache.zookeeper.test.ObserverTest-testObserver - Restarting server 2
+2014.12.01 15:59:08 org.apache.zookeeper.server.quorum.QuorumPeerTestBase$MainThread-<init> - id = 2 tmpDir = build\test6389312970419818600.junit.dir clientPort = 11228
+2014.12.01 15:59:08 org.apache.zookeeper.test.ObserverTest-testObserver - Waiting for server 2 to come up
+2014.12.01 15:59:08 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parse - Reading configuration from: build\test6389312970419818600.junit.dir\zoo.cfg
+2014.12.01 15:59:08 org.apache.zookeeper.client.FourLetterWordMain-send4LetterWord - connecting to 127.0.0.1 11228
+2014.12.01 15:59:08 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parseProperties - Defaulting to majority quorums
+2014.12.01 15:59:08 org.apache.zookeeper.server.DatadirCleanupManager-<init> - autopurge.snapRetainCount set to 3
+2014.12.01 15:59:08 org.apache.zookeeper.server.DatadirCleanupManager-<init> - autopurge.purgeInterval set to 0
+2014.12.01 15:59:08 org.apache.zookeeper.server.DatadirCleanupManager-start - Purge task is not scheduled.
+2014.12.01 15:59:08 org.apache.zookeeper.server.quorum.QuorumPeerMain-runFromConfig - Starting quorum peer
+2014.12.01 15:59:08 org.apache.zookeeper.server.NIOServerCnxnFactory-configure - binding to port 0.0.0.0/0.0.0.0:11228
+2014.12.01 15:59:08 org.apache.zookeeper.server.quorum.FastLeaderElection-lookForLeader - Notification time out: 1600
+2014.12.01 15:59:08 org.apache.zookeeper.server.quorum.QuorumPeer-setTickTime - tickTime set to 4000
+2014.12.01 15:59:08 org.apache.zookeeper.server.quorum.QuorumPeer-setMinSessionTimeout - minSessionTimeout set to -1
+2014.12.01 15:59:08 org.apache.zookeeper.server.quorum.QuorumPeer-setMaxSessionTimeout - maxSessionTimeout set to -1
+2014.12.01 15:59:08 org.apache.zookeeper.server.quorum.QuorumPeer-setInitLimit - initLimit set to 10
+2014.12.01 15:59:08 org.apache.zookeeper.server.quorum.QuorumPeer-loadDataBase - currentEpoch not found! Creating with a reasonable default of 0. This should only happen when you are upgrading your installation
+2014.12.01 15:59:08 org.apache.zookeeper.server.quorum.QuorumPeer-loadDataBase - acceptedEpoch not found! Creating with a reasonable default of 0. This should only happen when you are upgrading your installation
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.QuorumCnxManager$Listener-run - My election bind port: /127.0.0.1:11225
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.QuorumPeer-run - LOOKING
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.FastLeaderElection-lookForLeader - New election. My id =  2, proposed zxid=0x0
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.QuorumCnxManager$Listener-run - Received connection request /127.0.0.1:52042
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.FastLeaderElection-printNotification - Notification: 1 (message format version), 2 (n.leader), 0x0 (n.zxid), 0x1 (n.round), LOOKING (n.state), 2 (n.sid), 0x0 (n.peerEpoch) LOOKING (my state)
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.FastLeaderElection-printNotification - Notification: 1 (message format version), 1 (n.leader), 0x100000003 (n.zxid), 0x2 (n.round), LOOKING (n.state), 1 (n.sid), 0x1 (n.peerEpoch) LOOKING (my state)
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.FastLeaderElection-printNotification - Notification: 1 (message format version), 2 (n.leader), 0x0 (n.zxid), 0x1 (n.round), LOOKING (n.state), 2 (n.sid), 0x0 (n.peerEpoch) LOOKING (my state)
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.FastLeaderElection-printNotification - Notification: 1 (message format version), 1 (n.leader), 0x100000003 (n.zxid), 0x2 (n.round), LOOKING (n.state), 2 (n.sid), 0x1 (n.peerEpoch) LOOKING (my state)
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.FastLeaderElection-printNotification - Notification: 1 (message format version), 1 (n.leader), 0x100000003 (n.zxid), 0x2 (n.round), LOOKING (n.state), 2 (n.sid), 0x1 (n.peerEpoch) LOOKING (my state)
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.FastLeaderElection$Messenger$WorkerReceiver-run - WorkerReceiver is down
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.FastLeaderElection$Messenger$WorkerSender-run - WorkerSender is down
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.QuorumCnxManager$Listener-run - Received connection request /127.0.0.1:52036
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.FastLeaderElection-printNotification - Notification: 1 (message format version), 2 (n.leader), 0x0 (n.zxid), 0x2 (n.round), LOOKING (n.state), 2 (n.sid), 0x0 (n.peerEpoch) LOOKING (my state)
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.FastLeaderElection-printNotification - Notification: 1 (message format version), 2 (n.leader), 0x0 (n.zxid), 0x2 (n.round), LOOKING (n.state), 2 (n.sid), 0x0 (n.peerEpoch) LOOKING (my state)
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.QuorumCnxManager$Listener-run - Received connection request /127.0.0.1:52037
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.QuorumCnxManager-initiateConnection - Have smaller server identifier, so dropping the connection: (2, 1)
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.FastLeaderElection-printNotification - Notification: 1 (message format version), 1 (n.leader), 0x100000003 (n.zxid), 0x2 (n.round), LOOKING (n.state), 1 (n.sid), 0x1 (n.peerEpoch) LOOKING (my state)
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.FastLeaderElection-printNotification - Notification: 1 (message format version), 1 (n.leader), 0x100000003 (n.zxid), 0x2 (n.round), LOOKING (n.state), 1 (n.sid), 0x1 (n.peerEpoch) LOOKING (my state)
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.FastLeaderElection-printNotification - Notification: 1 (message format version), 2 (n.leader), 0x0 (n.zxid), 0x2 (n.round), LOOKING (n.state), 1 (n.sid), 0x1 (n.peerEpoch) LOOKING (my state)
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.QuorumCnxManager$Listener-run - Received connection request /127.0.0.1:52043
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.FastLeaderElection-printNotification - Notification: 1 (message format version), 1 (n.leader), 0x100000003 (n.zxid), 0x2 (n.round), LOOKING (n.state), 2 (n.sid), 0x1 (n.peerEpoch) LOOKING (my state)
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.FastLeaderElection-printNotification - Notification: 1 (message format version), 2 (n.leader), 0x0 (n.zxid), 0x2 (n.round), LOOKING (n.state), 1 (n.sid), 0x1 (n.peerEpoch) LOOKING (my state)
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.FastLeaderElection-printNotification - Notification: 1 (message format version), 2 (n.leader), 0x0 (n.zxid), 0x2 (n.round), LOOKING (n.state), 2 (n.sid), 0x0 (n.peerEpoch) LOOKING (my state)
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.FastLeaderElection-printNotification - Notification: 1 (message format version), 1 (n.leader), 0x100000003 (n.zxid), 0x2 (n.round), LOOKING (n.state), 1 (n.sid), 0x1 (n.peerEpoch) LOOKING (my state)
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.QuorumPeer-run - LEADING
+2014.12.01 15:59:09 org.apache.zookeeper.server.ZooKeeperServer-<init> - Created server with tickTime 4000 minSessionTimeout 8000 maxSessionTimeout 80000 datadir build\test3716621184478016264.junit.dir\data\version-2 snapdir build\test3716621184478016264.junit.dir\data\version-2
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.QuorumPeer-run - FOLLOWING
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.Leader-lead - LEADING - LEADER ELECTION TOOK - 2253
+2014.12.01 15:59:09 org.apache.zookeeper.server.ZooKeeperServer-<init> - Created server with tickTime 4000 minSessionTimeout 8000 maxSessionTimeout 80000 datadir build\test6389312970419818600.junit.dir\data\version-2 snapdir build\test6389312970419818600.junit.dir\data\version-2
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.Follower-followLeader - FOLLOWING - LEADER ELECTION TOOK - 376
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.LearnerHandler-run - Follower sid: 2 : info : org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@11381e7
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.LearnerHandler-run - Synchronizing with Follower sid: 2 maxCommittedLog=0x100000003 minCommittedLog=0x100000001 peerLastZxid=0x0
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.LearnerHandler-run - Sending SNAP
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.LearnerHandler-run - Sending snapshot last zxid of peer is 0x0  zxid of leader is 0x200000000sent zxid of db as 0x100000003
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.Learner-syncWithLeader - Getting a snapshot from leader
+2014.12.01 15:59:09 org.apache.zookeeper.server.persistence.FileTxnSnapLog-save - Snapshotting: 0x100000003 to build\test6389312970419818600.junit.dir\data\version-2\snapshot.100000003
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.LearnerHandler-run - Received NEWLEADER-ACK message from 2
+2014.12.01 15:59:09 org.apache.zookeeper.server.quorum.Leader-startZkServer - Have quorum of supporters, sids: [ 1,2 ]; starting up and setting last processed zxid: 0x200000000
+2014.12.01 15:59:09 org.apache.zookeeper.server.NIOServerCnxnFactory-run - Accepted socket connection from /127.0.0.1:52039
+2014.12.01 15:59:09 org.apache.zookeeper.server.NIOServerCnxn-checkFourLetterWord - Processing stat command from /127.0.0.1:52039
+2014.12.01 15:59:09 org.apache.zookeeper.server.NIOServerCnxn$StatCommand-commandRun - Stat command output
+2014.12.01 15:59:09 org.apache.zookeeper.server.NIOServerCnxn-closeSock - Closed socket connection for client /127.0.0.1:52039 (no session established for client)
+2014.12.01 15:59:09 org.apache.zookeeper.test.ObserverTest-testObserver - Server 2 started, waiting for latch
+2014.12.01 15:59:10 org.apache.zookeeper.server.quorum.FastLeaderElection-lookForLeader - Notification time out: 3200
+2014.12.01 15:59:10 org.apache.zookeeper.server.quorum.FastLeaderElection-printNotification - Notification: 1 (message format version), 1 (n.leader), 0x100000003 (n.zxid), 0x2 (n.round), LEADING (n.state), 1 (n.sid), 0x2 (n.peerEpoch) LOOKING (my state)
+2014.12.01 15:59:10 org.apache.zookeeper.server.quorum.FastLeaderElection-printNotification - Notification: 1 (message format version), 1 (n.leader), 0x100000003 (n.zxid), 0x2 (n.round), FOLLOWING (n.state), 2 (n.sid), 0x2 (n.peerEpoch) LOOKING (my state)
+2014.12.01 15:59:10 org.apache.zookeeper.server.quorum.QuorumPeer-run - OBSERVING
+2014.12.01 15:59:10 org.apache.zookeeper.server.ZooKeeperServer-<init> - Created server with tickTime 4000 minSessionTimeout 8000 maxSessionTimeout 80000 datadir build\test5371398397880781982.junit.dir\data\version-2 snapdir build\test5371398397880781982.junit.dir\data\version-2
+2014.12.01 15:59:10 org.apache.zookeeper.server.quorum.ObserverZooKeeperServer-<init> - syncEnabled =true
+2014.12.01 15:59:10 org.apache.zookeeper.server.quorum.Observer-observeLeader - Observing /127.0.0.1:11221
+2014.12.01 15:59:10 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:11229. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.12.01 15:59:10 org.apache.zookeeper.ClientCnxn$SendThread-primeConnection - Socket connection established to 127.0.0.1/127.0.0.1:11229, initiating session
+2014.12.01 15:59:10 org.apache.zookeeper.server.NIOServerCnxnFactory-run - Accepted socket connection from /127.0.0.1:52046
+2014.12.01 15:59:10 org.apache.zookeeper.server.persistence.FileSnap-deserialize - Reading snapshot build\test5371398397880781982.junit.dir\data\version-2\snapshot.0
+2014.12.01 15:59:10 org.apache.zookeeper.server.NIOServerCnxn-closeSock - Closed socket connection for client /127.0.0.1:52046 (no session established for client)
+2014.12.01 15:59:10 org.apache.zookeeper.ClientCnxn$SendThread-run - Unable to read additional data from server sessionid 0x34a04dc2ed00000, likely server has closed socket, closing socket connection and attempting reconnect
+2014.12.01 15:59:10 org.apache.zookeeper.server.quorum.LearnerHandler-run - Follower sid: 3 : info : org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@19a32e0
+2014.12.01 15:59:10 org.apache.zookeeper.server.quorum.LearnerHandler-run - Synchronizing with Follower sid: 3 maxCommittedLog=0x100000003 minCommittedLog=0x100000001 peerLastZxid=0x100000003
+2014.12.01 15:59:10 org.apache.zookeeper.server.quorum.LearnerHandler-run - Sending DIFF
+2014.12.01 15:59:10 org.apache.zookeeper.server.quorum.Learner-syncWithLeader - Getting a diff from the leader 0x100000003
+2014.12.01 15:59:10 org.apache.zookeeper.server.persistence.FileTxnSnapLog-save - Snapshotting: 0x100000003 to build\test5371398397880781982.junit.dir\data\version-2\snapshot.100000003
+2014.12.01 15:59:10 org.apache.zookeeper.server.quorum.LearnerHandler-run - Received NEWLEADER-ACK message from 3
+2014.12.01 15:59:12 org.apache.zookeeper.ClientCnxn$SendThread-logStartConnect - Opening socket connection to server 127.0.0.1/127.0.0.1:11229. Will not attempt to authenticate using SASL (java.lang.SecurityException: Unable to locate a login configuration)
+2014.12.01 15:59:12 org.apache.zookeeper.ClientCnxn$SendThread-primeConnection - Socket connection established to 127.0.0.1/127.0.0.1:11229, initiating session
+2014.12.01 15:59:12 org.apache.zookeeper.server.NIOServerCnxnFactory-run - Accepted socket connection from /127.0.0.1:52047
+2014.12.01 15:59:12 org.apache.zookeeper.server.ZooKeeperServer-processConnectRequest - Client attempting to renew session 0x34a04dc2ed00000 at /127.0.0.1:52047
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.Learner-validateSession - Revalidating client: 0x34a04dc2ed00000
+2014.12.01 15:59:12 org.apache.zookeeper.server.ZooKeeperServer-finishSessionInit - Established session 0x34a04dc2ed00000 with negotiated timeout 30000 for client /127.0.0.1:52047
+2014.12.01 15:59:12 org.apache.zookeeper.ClientCnxn$SendThread-onConnected - Session establishment complete on server 127.0.0.1/127.0.0.1:11229, sessionid = 0x34a04dc2ed00000, negotiated timeout = 30000
+2014.12.01 15:59:12 org.apache.zookeeper.test.ObserverTest-process - Latch got event :: WatchedEvent state:SyncConnected type:None path:null
+2014.12.01 15:59:12 org.apache.zookeeper.test.ObserverTest-testObserver - Shutting down all servers
+2014.12.01 15:59:12 org.apache.zookeeper.test.QuorumBase-shutdown - Shutting down quorum peer QuorumPeer[myid=1]/0.0.0.0:11227
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.Leader-shutdown - Shutting down
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.Leader-shutdown - Shutdown called
+java.lang.Exception: shutdown Leader! reason: quorum Peer shutdown
+	at org.apache.zookeeper.server.quorum.Leader.shutdown(Leader.java:500)
+	at org.apache.zookeeper.server.quorum.QuorumPeer.shutdown(QuorumPeer.java:828)
+	at org.apache.zookeeper.test.QuorumBase.shutdown(QuorumBase.java:317)
+	at org.apache.zookeeper.server.quorum.QuorumPeerTestBase$TestQPMain.shutdown(QuorumPeerTestBase.java:53)
+	at org.apache.zookeeper.server.quorum.QuorumPeerTestBase$MainThread.shutdown(QuorumPeerTestBase.java:128)
+	at org.apache.zookeeper.test.ObserverTest.testObserver(ObserverTest.java:164)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.apache.zookeeper.JUnit4ZKTestRunner$LoggedInvokeMethod.evaluate(JUnit4ZKTestRunner.java:52)
+	at org.junit.rules.TestWatchman$1.evaluate(TestWatchman.java:48)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:76)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:49)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+2014.12.01 15:59:12 org.apache.zookeeper.server.ZooKeeperServer-shutdown - shutting down
+2014.12.01 15:59:12 org.apache.zookeeper.server.SessionTrackerImpl-shutdown - Shutting down
+2014.12.01 15:59:12 org.apache.zookeeper.server.PrepRequestProcessor-shutdown - Shutting down
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.Leader$LearnerCnxAcceptor-run - exception while shutting down acceptor: java.net.SocketException: socket closed
+2014.12.01 15:59:12 org.apache.zookeeper.server.PrepRequestProcessor-run - PrepRequestProcessor exited loop!
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.ProposalRequestProcessor-shutdown - Shutting down
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.CommitProcessor-shutdown - Shutting down
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.Leader$ToBeAppliedRequestProcessor-shutdown - Shutting down
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.CommitProcessor-run - CommitProcessor exited loop!
+2014.12.01 15:59:12 org.apache.zookeeper.server.FinalRequestProcessor-shutdown - shutdown of request processor complete
+2014.12.01 15:59:12 org.apache.zookeeper.server.SyncRequestProcessor-shutdown - Shutting down
+2014.12.01 15:59:12 org.apache.zookeeper.server.SyncRequestProcessor-run - SyncRequestProcessor exited!
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.Follower-shutdown - shutdown called
+java.lang.Exception: shutdown Follower
+	at org.apache.zookeeper.server.quorum.Follower.shutdown(Follower.java:166)
+	at org.apache.zookeeper.server.quorum.QuorumPeer.run(QuorumPeer.java:790)
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.FollowerZooKeeperServer-shutdown - Shutting down
+2014.12.01 15:59:12 org.apache.zookeeper.server.ZooKeeperServer-shutdown - shutting down
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.FollowerRequestProcessor-shutdown - Shutting down
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.CommitProcessor-shutdown - Shutting down
+2014.12.01 15:59:12 org.apache.zookeeper.server.NIOServerCnxnFactory-run - NIOServerCnxn factory exited run method
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.FollowerRequestProcessor-run - FollowerRequestProcessor exited loop!
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.CommitProcessor-run - CommitProcessor exited loop!
+2014.12.01 15:59:12 org.apache.zookeeper.server.FinalRequestProcessor-shutdown - shutdown of request processor complete
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.Observer-shutdown - shutdown called
+java.lang.Exception: shutdown Observer
+	at org.apache.zookeeper.server.quorum.Observer.shutdown(Observer.java:137)
+	at org.apache.zookeeper.server.quorum.QuorumPeer.run(QuorumPeer.java:777)
+2014.12.01 15:59:12 org.apache.zookeeper.test.QuorumBase-shutdown - Shutting down leader election QuorumPeer[myid=1]/0.0.0.0:11227
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.Leader-shutdown - Shutting down
+2014.12.01 15:59:12 org.apache.zookeeper.test.QuorumBase-shutdown - Waiting for QuorumPeer[myid=1]/0.0.0.0:11227 to exit thread
+2014.12.01 15:59:12 org.apache.zookeeper.test.QuorumBase-shutdown - Shutting down quorum peer QuorumPeer[myid=2]/0.0.0.0:11228
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.Follower-shutdown - shutdown called
+java.lang.Exception: shutdown Follower
+	at org.apache.zookeeper.server.quorum.Follower.shutdown(Follower.java:166)
+	at org.apache.zookeeper.server.quorum.QuorumPeer.shutdown(QuorumPeer.java:831)
+	at org.apache.zookeeper.test.QuorumBase.shutdown(QuorumBase.java:317)
+	at org.apache.zookeeper.server.quorum.QuorumPeerTestBase$TestQPMain.shutdown(QuorumPeerTestBase.java:53)
+	at org.apache.zookeeper.server.quorum.QuorumPeerTestBase$MainThread.shutdown(QuorumPeerTestBase.java:128)
+	at org.apache.zookeeper.test.ObserverTest.testObserver(ObserverTest.java:165)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.apache.zookeeper.JUnit4ZKTestRunner$LoggedInvokeMethod.evaluate(JUnit4ZKTestRunner.java:52)
+	at org.junit.rules.TestWatchman$1.evaluate(TestWatchman.java:48)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:76)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:49)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+2014.12.01 15:59:12 org.apache.zookeeper.server.NIOServerCnxn-closeSock - Closed socket connection for client /127.0.0.1:52047 which had sessionid 0x34a04dc2ed00000
+2014.12.01 15:59:12 org.apache.zookeeper.server.SyncRequestProcessor-shutdown - Shutting down
+2014.12.01 15:59:12 org.apache.zookeeper.server.ZooKeeperServer-shutdown - shutting down
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.ObserverRequestProcessor-shutdown - Shutting down
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.FollowerZooKeeperServer-shutdown - Shutting down
+2014.12.01 15:59:12 org.apache.zookeeper.server.ZooKeeperServer-shutdown - shutting down
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.FollowerRequestProcessor-shutdown - Shutting down
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.ObserverRequestProcessor-run - ObserverRequestProcessor exited loop!
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.CommitProcessor-shutdown - Shutting down
+2014.12.01 15:59:12 org.apache.zookeeper.server.FinalRequestProcessor-shutdown - shutdown of request processor complete
+2014.12.01 15:59:12 org.apache.zookeeper.server.SyncRequestProcessor-run - SyncRequestProcessor exited!
+2014.12.01 15:59:12 org.apache.zookeeper.ClientCnxn$SendThread-run - Unable to read additional data from server sessionid 0x34a04dc2ed00000, likely server has closed socket, closing socket connection and attempting reconnect
+2014.12.01 15:59:12 org.apache.zookeeper.server.SyncRequestProcessor-shutdown - Shutting down
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.CommitProcessor-run - CommitProcessor exited loop!
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.CommitProcessor-shutdown - Shutting down
+2014.12.01 15:59:12 org.apache.zookeeper.server.FinalRequestProcessor-shutdown - shutdown of request processor complete
+2014.12.01 15:59:12 org.apache.zookeeper.server.SyncRequestProcessor-run - SyncRequestProcessor exited!
+2014.12.01 15:59:12 org.apache.zookeeper.server.SyncRequestProcessor-shutdown - Shutting down
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.QuorumPeer-run - LOOKING
+2014.12.01 15:59:12 org.apache.zookeeper.server.NIOServerCnxnFactory-run - NIOServerCnxn factory exited run method
+2014.12.01 15:59:12 org.apache.zookeeper.server.quorum.FastLeaderElection-lookForLeader - New election. My id =  3, proposed zxid=0x8000000000000000
+2014.12.01 15:59:12 org.apache.zookeeper.test.QuorumBase-shutdown - Shutting down leader election QuorumPeer[myid=2]/0.0.0.0:11228
+2014.12.01 15:59:12 org.apache.zookeeper.test.QuorumBase-shutdown - Waiting for QuorumPeer[myid=2]/0.0.0.0:11228 to exit thread
+2014.12.01 15:59:12 org.apache.zookeeper.test.QuorumBase-shutdown - Shutting down quorum peer QuorumPeer[myid=3]/0.0.0.0:11229
+2014.12.01 15:59:12 org.apache.zookeeper.server.NIOServerCnxnFactory-run - NIOServerCnxn factory exited run method
+2014.12.01 15:59:12 org.apache.zookeeper.test.QuorumBase-shutdown - Shutting down leader election QuorumPeer[myid=3]/0.0.0.0:11229
+2014.12.01 15:59:12 org.apache.zookeeper.test.QuorumBase-shutdown - Waiting for QuorumPeer[myid=3]/0.0.0.0:11229 to exit thread
+2014.12.01 15:59:12 org.apache.zookeeper.test.ObserverTest-testObserver - Closing zk client
+2014.12.01 15:59:12 org.apache.zookeeper.ZooKeeper-close - Session: 0x34a04dc2ed00000 closed
+2014.12.01 15:59:12 org.apache.zookeeper.test.ObserverTest-process - Latch got event :: WatchedEvent state:Disconnected type:None path:null
+2014.12.01 15:59:12 org.apache.zookeeper.ClientCnxn$EventThread-run - EventThread shut down
+2014.12.01 15:59:12 org.apache.zookeeper.client.FourLetterWordMain-send4LetterWord - connecting to 127.0.0.1 11227
+2014.12.01 15:59:13 org.apache.zookeeper.server.quorum.QuorumCnxManager$Listener-run - Leaving listener
+2014.12.01 15:59:13 org.apache.zookeeper.server.quorum.QuorumCnxManager$Listener-run - Leaving listener
+2014.12.01 15:59:13 org.apache.zookeeper.server.quorum.QuorumCnxManager$Listener-run - Leaving listener
+2014.12.01 15:59:13 org.apache.zookeeper.server.quorum.FastLeaderElection$Messenger$WorkerSender-run - WorkerSender is down
+2014.12.01 15:59:13 org.apache.zookeeper.server.quorum.FastLeaderElection$Messenger$WorkerSender-run - WorkerSender is down
+2014.12.01 15:59:13 org.apache.zookeeper.server.quorum.FastLeaderElection$Messenger$WorkerReceiver-run - WorkerReceiver is down
+2014.12.01 15:59:13 org.apache.zookeeper.server.quorum.FastLeaderElection$Messenger$WorkerReceiver-run - WorkerReceiver is down
+2014.12.01 15:59:13 org.apache.zookeeper.server.quorum.FastLeaderElection$Messenger$WorkerSender-run - WorkerSender is down
+2014.12.01 15:59:13 org.apache.zookeeper.server.quorum.FastLeaderElection$Messenger$WorkerReceiver-run - WorkerReceiver is down
+2014.12.01 15:59:13 org.apache.zookeeper.client.FourLetterWordMain-send4LetterWord - connecting to 127.0.0.1 11228
+2014.12.01 15:59:14 org.apache.zookeeper.client.FourLetterWordMain-send4LetterWord - connecting to 127.0.0.1 11229
+2014.12.01 15:59:15 org.apache.zookeeper.JUnit4ZKTestRunner$LoggedInvokeMethod-evaluate - Memory used 2812
+2014.12.01 15:59:15 org.apache.zookeeper.JUnit4ZKTestRunner$LoggedInvokeMethod-evaluate - Number of threads 7
+2014.12.01 15:59:15 org.apache.zookeeper.JUnit4ZKTestRunner$LoggedInvokeMethod-evaluate - FINISHED TEST METHOD testObserver
+2014.12.01 15:59:15 org.apache.zookeeper.ZKTestCase$1-succeeded - SUCCEEDED testObserver
+2014.12.01 15:59:15 org.apache.zookeeper.ZKTestCase$1-finished - FINISHED testObserver
+2014.12.01 15:59:15 org.apache.zookeeper.ZKTestCase$1-starting - STARTING testObserverOnly
+2014.12.01 15:59:15 org.apache.zookeeper.JUnit4ZKTestRunner$LoggedInvokeMethod-evaluate - RUNNING TEST METHOD testObserverOnly
+2014.12.01 15:59:15 org.apache.zookeeper.PortAssignment-unique - assigning port 11230
+2014.12.01 15:59:15 org.apache.zookeeper.PortAssignment-unique - assigning port 11231
+2014.12.01 15:59:15 org.apache.zookeeper.PortAssignment-unique - assigning port 11232
+2014.12.01 15:59:15 org.apache.zookeeper.server.quorum.QuorumPeerTestBase$MainThread-<init> - id = 1 tmpDir = build\test5203488257006534959.junit.dir clientPort = 11230
+2014.12.01 15:59:15 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parse - Reading configuration from: build\test5203488257006534959.junit.dir\zoo.cfg
+2014.12.01 15:59:15 org.apache.zookeeper.JUnit4ZKTestRunner$LoggedInvokeMethod-evaluate - Memory used 2951
+2014.12.01 15:59:15 org.apache.zookeeper.JUnit4ZKTestRunner$LoggedInvokeMethod-evaluate - Number of threads 7
+2014.12.01 15:59:15 org.apache.zookeeper.JUnit4ZKTestRunner$LoggedInvokeMethod-evaluate - FINISHED TEST METHOD testObserverOnly
+2014.12.01 15:59:15 org.apache.zookeeper.ZKTestCase$1-succeeded - SUCCEEDED testObserverOnly
+2014.12.01 15:59:15 org.apache.zookeeper.ZKTestCase$1-finished - FINISHED testObserverOnly
+2014.12.01 15:59:15 org.apache.zookeeper.ZKTestCase$1-starting - STARTING testObserverWithStandlone
+2014.12.01 15:59:15 org.apache.zookeeper.JUnit4ZKTestRunner$LoggedInvokeMethod-evaluate - RUNNING TEST METHOD testObserverWithStandlone
+2014.12.01 15:59:15 org.apache.zookeeper.PortAssignment-unique - assigning port 11233
+2014.12.01 15:59:15 org.apache.zookeeper.PortAssignment-unique - assigning port 11234
+2014.12.01 15:59:15 org.apache.zookeeper.PortAssignment-unique - assigning port 11235
+2014.12.01 15:59:15 org.apache.zookeeper.PortAssignment-unique - assigning port 11236
+2014.12.01 15:59:15 org.apache.zookeeper.PortAssignment-unique - assigning port 11237
+2014.12.01 15:59:15 org.apache.zookeeper.server.quorum.QuorumPeerTestBase$MainThread-<init> - id = 1 tmpDir = build\test3482926895514528710.junit.dir clientPort = 11233
+2014.12.01 15:59:15 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parse - Reading configuration from: build\test3482926895514528710.junit.dir\zoo.cfg
+2014.12.01 15:59:15 org.apache.zookeeper.JUnit4ZKTestRunner$LoggedInvokeMethod-evaluate - Memory used 3072
+2014.12.01 15:59:15 org.apache.zookeeper.JUnit4ZKTestRunner$LoggedInvokeMethod-evaluate - Number of threads 7
+2014.12.01 15:59:15 org.apache.zookeeper.JUnit4ZKTestRunner$LoggedInvokeMethod-evaluate - FINISHED TEST METHOD testObserverWithStandlone
+2014.12.01 15:59:15 org.apache.zookeeper.ZKTestCase$1-succeeded - SUCCEEDED testObserverWithStandlone
+2014.12.01 15:59:15 org.apache.zookeeper.ZKTestCase$1-finished - FINISHED testObserverWithStandlone
+2014.12.01 16:31:03 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parse - Reading configuration from: C:\projects\stuying\zookeeper-3.4.6\conf\zoo_sample1.cfg
+2014.12.01 16:31:03 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parseProperties - Defaulting to majority quorums
+2014.12.01 16:31:03 org.apache.zookeeper.leolee.ZooKeeperServerTest-runFromConfig - Starting server
+2014.12.01 16:31:03 org.apache.zookeeper.Environment-logEnv - Server environment:zookeeper.version=3.4.6--1, built on 05/15/2014 07:37 GMT
+2014.12.01 16:31:03 org.apache.zookeeper.Environment-logEnv - Server environment:host.name=SERVER-103
+2014.12.01 16:31:03 org.apache.zookeeper.Environment-logEnv - Server environment:java.version=1.6.0_45
+2014.12.01 16:31:03 org.apache.zookeeper.Environment-logEnv - Server environment:java.vendor=Sun Microsystems Inc.
+2014.12.01 16:31:03 org.apache.zookeeper.Environment-logEnv - Server environment:java.home=C:\Program Files\Java\jre6
+2014.12.01 16:31:03 org.apache.zookeeper.Environment-logEnv - Server environment:java.class.path=C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-main;C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-test;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.6.1.jar;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-log4j12\jars\slf4j-log4j12-1.6.1.jar;C:\Users\Administrator\.ant\cache\log4j\log4j\bundles\log4j-1.2.16.jar;C:\Users\Administrator\.ant\cache\jline\jline\jars\jline-0.9.94.jar;C:\Users\Administrator\.ant\cache\io.netty\netty\jars\netty-3.7.0.Final.jar;C:\Users\Administrator\.ant\cache\junit\junit\jars\junit-4.8.1.jar;C:\Users\Administrator\.ant\cache\org.mockito\mockito-all\jars\mockito-all-1.8.2.jar;C:\Users\Administrator\.ant\cache\checkstyle\checkstyle\jars\checkstyle-5.0.jar
+2014.12.01 16:31:03 org.apache.zookeeper.Environment-logEnv - Server environment:java.library.path=C:\Program Files\Java\jre6\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:/Program Files/Java/jre6/lib/i386;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\TortoiseSVN\bin;C:\Program Files\apache-maven-3.1.0\bin;C:\Program Files\Java\jdk1.6.0_45\bin;C:\Program Files\TortoiseGit\bin;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\VisualSVN Server\bin;C:\Program Files\apache-ant-1.9.2\bin;C:\Program Files\erl6.1\bin;C:\Python27;C:\Program Files\GTK2-Runtime\bin;C:\FPC\2.6.4\bin\i386-Win32;.
+2014.12.01 16:31:03 org.apache.zookeeper.Environment-logEnv - Server environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\2\
+2014.12.01 16:31:03 org.apache.zookeeper.Environment-logEnv - Server environment:java.compiler=<NA>
+2014.12.01 16:31:03 org.apache.zookeeper.Environment-logEnv - Server environment:os.name=Windows Server 2008
+2014.12.01 16:31:03 org.apache.zookeeper.Environment-logEnv - Server environment:os.arch=x86
+2014.12.01 16:31:03 org.apache.zookeeper.Environment-logEnv - Server environment:os.version=6.0
+2014.12.01 16:31:03 org.apache.zookeeper.Environment-logEnv - Server environment:user.name=Administrator
+2014.12.01 16:31:03 org.apache.zookeeper.Environment-logEnv - Server environment:user.home=C:\Users\Administrator
+2014.12.01 16:31:03 org.apache.zookeeper.Environment-logEnv - Server environment:user.dir=C:\projects\stuying\zookeeper-3.4.6
+2014.12.01 16:31:03 org.apache.zookeeper.server.ZooKeeperServer-setTickTime - tickTime set to 2000
+2014.12.01 16:31:03 org.apache.zookeeper.server.ZooKeeperServer-setMinSessionTimeout - minSessionTimeout set to -1
+2014.12.01 16:31:03 org.apache.zookeeper.server.ZooKeeperServer-setMaxSessionTimeout - maxSessionTimeout set to -1
+2014.12.01 16:31:03 org.apache.zookeeper.server.NIOServerCnxnFactory-configure - binding to port 0.0.0.0/0.0.0.0:2181
+2014.12.01 16:31:21 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parse - Reading configuration from: C:\projects\stuying\zookeeper-3.4.6\conf\zoo_sample2.cfg
+2014.12.01 16:31:21 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parseProperties - Defaulting to majority quorums
+2014.12.01 16:31:21 org.apache.zookeeper.leolee.ZooKeeperServerTest-runFromConfig - Starting server
+2014.12.01 16:31:21 org.apache.zookeeper.Environment-logEnv - Server environment:zookeeper.version=3.4.6--1, built on 05/15/2014 07:37 GMT
+2014.12.01 16:31:21 org.apache.zookeeper.Environment-logEnv - Server environment:host.name=SERVER-103
+2014.12.01 16:31:21 org.apache.zookeeper.Environment-logEnv - Server environment:java.version=1.6.0_45
+2014.12.01 16:31:21 org.apache.zookeeper.Environment-logEnv - Server environment:java.vendor=Sun Microsystems Inc.
+2014.12.01 16:31:21 org.apache.zookeeper.Environment-logEnv - Server environment:java.home=C:\Program Files\Java\jre6
+2014.12.01 16:31:21 org.apache.zookeeper.Environment-logEnv - Server environment:java.class.path=C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-main;C:\projects\stuying\zookeeper-3.4.6\.eclipse\classes-test;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.6.1.jar;C:\Users\Administrator\.ant\cache\org.slf4j\slf4j-log4j12\jars\slf4j-log4j12-1.6.1.jar;C:\Users\Administrator\.ant\cache\log4j\log4j\bundles\log4j-1.2.16.jar;C:\Users\Administrator\.ant\cache\jline\jline\jars\jline-0.9.94.jar;C:\Users\Administrator\.ant\cache\io.netty\netty\jars\netty-3.7.0.Final.jar;C:\Users\Administrator\.ant\cache\junit\junit\jars\junit-4.8.1.jar;C:\Users\Administrator\.ant\cache\org.mockito\mockito-all\jars\mockito-all-1.8.2.jar;C:\Users\Administrator\.ant\cache\checkstyle\checkstyle\jars\checkstyle-5.0.jar
+2014.12.01 16:31:21 org.apache.zookeeper.Environment-logEnv - Server environment:java.library.path=C:\Program Files\Java\jre6\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:/Program Files/Java/jre6/lib/i386;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\TortoiseSVN\bin;C:\Program Files\apache-maven-3.1.0\bin;C:\Program Files\Java\jdk1.6.0_45\bin;C:\Program Files\TortoiseGit\bin;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\VisualSVN Server\bin;C:\Program Files\apache-ant-1.9.2\bin;C:\Program Files\erl6.1\bin;C:\Python27;C:\Program Files\GTK2-Runtime\bin;C:\FPC\2.6.4\bin\i386-Win32;.
+2014.12.01 16:31:21 org.apache.zookeeper.Environment-logEnv - Server environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\2\
+2014.12.01 16:31:21 org.apache.zookeeper.Environment-logEnv - Server environment:java.compiler=<NA>
+2014.12.01 16:31:21 org.apache.zookeeper.Environment-logEnv - Server environment:os.name=Windows Server 2008
+2014.12.01 16:31:21 org.apache.zookeeper.Environment-logEnv - Server environment:os.arch=x86
+2014.12.01 16:31:21 org.apache.zookeeper.Environment-logEnv - Server environment:os.version=6.0
+2014.12.01 16:31:21 org.apache.zookeeper.Environment-logEnv - Server environment:user.name=Administrator
+2014.12.01 16:31:21 org.apache.zookeeper.Environment-logEnv - Server environment:user.home=C:\Users\Administrator
+2014.12.01 16:31:21 org.apache.zookeeper.Environment-logEnv - Server environment:user.dir=C:\projects\stuying\zookeeper-3.4.6
+2014.12.01 16:31:21 org.apache.zookeeper.server.ZooKeeperServer-setTickTime - tickTime set to 2000
+2014.12.01 16:31:21 org.apache.zookeeper.server.ZooKeeperServer-setMinSessionTimeout - minSessionTimeout set to -1
+2014.12.01 16:31:21 org.apache.zookeeper.server.ZooKeeperServer-setMaxSessionTimeout - maxSessionTimeout set to -1
+2014.12.01 16:31:21 org.apache.zookeeper.server.NIOServerCnxnFactory-configure - binding to port 0.0.0.0/0.0.0.0:2182
+2014.12.01 16:43:09 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parse - Reading configuration from: C:\projects\stuying\zookeeper-3.4.6\conf\zoo_sample2.cfg
+2014.12.01 16:43:09 org.apache.zookeeper.server.quorum.QuorumPeerConfig-parseProperties - Defaulting to majority quorums
